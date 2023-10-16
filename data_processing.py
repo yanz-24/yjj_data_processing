@@ -171,7 +171,7 @@ def map2db(input_path, output_path, data_source):
         df2 = add_info(original_df, df_software, "医用软件")
         df3 = add_info(original_df, df_clinical_divice, "临床检验器械")
         df = pd.concat([df1, df2, df3, remaining_df]).sort_index() 
-        df.to_excel('test_data/temp2.xlsx')
+        # df.to_excel('test_data/temp2.xlsx')
     elif data_source == '常规审批': #只处理数据，不添加额外信息。例如把体外诊断试剂的产品名称分成3部分。
         a, b = get_df_to_change(original_df, "体外诊断试剂")
         df = pd.concat([a, b]).sort_index()
