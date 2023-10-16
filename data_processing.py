@@ -192,6 +192,11 @@ def map2db(input_path, output_path, data_source):
     # 添加疾病领域
     target_df['疾病领域'] = target_df.apply(find_diseases, axis=1)  
 
+    # 统一日期格式为year/month/day
+    target_df['发布/批准日期'] = pd.to_datetime(target_df['发布/批准日期']) # 确保日期列是datetime类型
+
+    target_df["发布/批准日期"] = target_df["发布/批准日期"].dt.strftime('%Y/%m/%d')
+
 
     try: 
         df1 = pd.read_excel(output_path, engine='openpyxl') #读取原数据文件和表
