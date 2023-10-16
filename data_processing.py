@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 import hashlib
-from roche_db.Constants import MAPPING_NORMAL, MAPPING_INNO_PRIO, COLUMN_NAMES, IN_VITRO_TYPES
+from roche_db.Constants import MAPPING_NORMAL, MAPPING_INNO_PRIO, COLUMN_NAMES, IN_VITRO_TYPES, DISEASES
 from roche_db.fuzzy_merge import fuzzy_merge_in_vitro, fuzzy_merge_software_device
 
 def generate_ID(df, new_column_name):
@@ -144,6 +144,15 @@ def add_info(df, df_cat, data_type):
     return merge
 
 
+def find_diseases(row):
+    '''
+    对与某一个‘产品名称’，寻找与之匹配的疾病，并返回疾病名称
+    '''
+    for disease in DISEASES:
+        if disease in row['产品名称']:
+            return disease 
+
+
 def map2db(input_path, output_path, data_source):
     '''
     data_source: '创新审批', '常规审批', '优先审批'
@@ -174,11 +183,15 @@ def map2db(input_path, output_path, data_source):
 
     # 将映射关系列复制到目标DataFrame
     for original_col, target_col in mapping.items():
-        print(original_col, target_col)
         try:
             target_df[target_col] = df[original_col]
         except KeyError as e:
             print(e, "does not exist, skip")
+
+
+    # 添加疾病领域
+    target_df['疾病领域'] = target_df.apply(find_diseases, axis=1)  
+
 
     try: 
         df1 = pd.read_excel(output_path, engine='openpyxl') #读取原数据文件和表
@@ -186,7 +199,7 @@ def map2db(input_path, output_path, data_source):
             df_rows = df1.shape[0] #获取原数据的行数
             target_df.to_excel(writer, sheet_name='Sheet1',startrow=df_rows+1, index=False, header=False)#将数据写入excel中的aa表,从第一个空行开始写
     except OSError as e:
-        print('output file does not exist,', e)
+        print('output file does not exist:', e)
         print('create a new output file.')
         with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
             # 将df1写入一个名为 'Sheet1' 的表单
