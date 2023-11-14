@@ -143,15 +143,26 @@ def add_info(df, df_cat, data_type):
     # merge = pd.concat([merge, remaining_df]).sort_index()
     return merge
 
-
-def find_diseases(row):
+def find_diseases(row, is_clinical=False):
     '''
-    对与某一个‘产品名称’，寻找与之匹配的疾病，并返回疾病名称
+    对与某一个产品的检测项目，寻找与之匹配的疾病，并返回疾病名称
     '''
-    for disease in DISEASES:
-        if disease in row['产品名称']:
-            return disease 
-
+    df_biomarker = pd.read_csv("roche_db/data/biomarker_data_clinical_status_all.tsv", sep='\t', index_col=0)
+    if is_clinical: # 只筛选clinical biomarker
+        df_biomarker = df_biomarker[df_biomarker["Clinical Status"] == "Clinical"]
+    
+    if not pd.isnull(row['检测项目']):
+        disease_str = []
+        for i, df_row in df_biomarker.iterrows():
+            if not pd.isnull(df_row["Biomarker"]):
+                if df_row["Biomarker"] in row['检测项目']:
+                    disease_str.append(df_row["Condition Types Full"])
+            if not pd.isnull(df_row["Chinese Name"]):
+                if df_row["Chinese Name"] in row['检测项目']:
+                    disease_str.append(df_row["Condition Types Full"])
+        return ','.join(set(disease_str))
+    else:
+        return None
 
 def map2db(input_path, output_path, data_source):
     '''
@@ -209,6 +220,3 @@ def map2db(input_path, output_path, data_source):
         with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
             # 将df1写入一个名为 'Sheet1' 的表单
             target_df.to_excel(writer, index=False, sheet_name="Sheet1")
-
-
-
