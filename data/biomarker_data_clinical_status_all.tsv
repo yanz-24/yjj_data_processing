@@ -1,0 +1,1125 @@
+	Biomarker	Condition Types Full	Condition Categories	Condition Name	Clinical Status	Biomarker Type	Chinese Name
+0	1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin	1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin Exposure	Exposure	1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin Exposure	Clinical	Chemical Biomarkers	
+1	1,2,3,4,6,7,8-Heptachlorodibenzofuran	1,2,3,4,6,7,8-Heptachlorodibenzofuran Exposure	Exposure	1,2,3,4,6,7,8-Heptachlorodibenzofuran Exposure	Clinical	Chemical Biomarkers	
+2	1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin	1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin Exposure	Exposure	1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin Exposure	Clinical	Chemical Biomarkers	
+3	1,2,3,4,7,8-Hexachlorodibenzofuran	1,2,3,4,7,8-Hexachlorodibenzofuran Exposure	Exposure	1,2,3,4,7,8-Hexachlorodibenzofuran Exposure	Clinical	Chemical Biomarkers	
+4	1,2,3,6,7,8-Hexachlorodibenzofuran	1,2,3,6,7,8-Hexachlorodibenzofuran Exposure	Exposure	1,2,3,6,7,8-Hexachlorodibenzofuran Exposure	Clinical	Chemical Biomarkers	
+5	1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin	1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin Exposure	Exposure	1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin Exposure	Clinical	Chemical Biomarkers	
+6	1,2,3,7,8-Pentachlorodibenzo-p-dioxin	1,2,3,7,8-Pentachlorodibenzo-p-dioxin Exposure	Exposure	1,2,3,7,8-Pentachlorodibenzo-p-dioxin Exposure	Clinical	Chemical Biomarkers	
+7	1,3-Diaminopropane	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	1,3-二氨基丙烷
+8	1,3-Diaminopropane	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	1,3-二氨基丙烷
+9	1,3-Diaminopropane	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	1,3-二氨基丙烷
+10	1,3-Diaminopropane	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	1,3-二氨基丙烷
+11	1,3-Diaminopropane	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	1,3-二氨基丙烷
+12	1,3-Diaminopropane	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	1,3-二氨基丙烷
+13	1,3-Diaminopropane	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	1,3-二氨基丙烷
+14	1,3-Dimethyluric acid	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	1,3-二甲基尿酸
+15	1,4-Dichlorobenzene	1,4-Dichlorobenzene Exposure	Exposure	1,4-Dichlorobenzene Exposure	Clinical	Chemical Biomarkers	
+16	1,7-Dimethyluric acid	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	1,7-二甲基尿酸
+17	1-Butanol	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	1-丁醇
+18	1-Butanol	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	1-丁醇
+19	1-Hydroxy-2-butanone	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+20	1-Hydroxyphenanthrene	1-Hydroxyphenanthrene Exposure	Exposure	1-Hydroxyphenanthrene Exposure	Clinical	Chemical Biomarkers	1-羟基菲
+21	1-Hydroxypyrene	1-Hydroxypyrene Exposure	Exposure	1-Hydroxypyrene Exposure	Clinical	Chemical Biomarkers	1-羟基芘
+22	1-Methyl-9H-pyrido[3,4-b]indole	1-Methyl-9H-pyrido[3,4-b]indole (Harman) Exposure	Exposure	1-Methyl-9H-pyrido[3,4-b]indole (Harman) Exposure	Clinical	Chemical Biomarkers	
+23	1-Methyladenine	Adenosine Deaminase Deficiency	Immune System Disorder	Adenosine Deaminase Deficiency	Clinical	Chemical Biomarkers	1-甲基腺嘌呤
+24	1-Methyladenosine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	1-甲基腺苷
+25	1-Methyladenosine	Cervical Cancer	Cancer,Female Reproductive System Disorder	Cervical Cancer	Investigational	Chemical Biomarkers	1-甲基腺苷
+26	1-Methylguanosine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	1-甲基鸟苷
+27	1-Methylhistamine	Dermal Fibroproliferative Disorder	Skin Disorder	Dermal Fibroproliferative Disorder	Investigational	Chemical Biomarkers	1-甲基组胺
+28	1-Methylhistamine	Mastocytosis	Skin Disorder	Mastocytosis	Investigational	Chemical Biomarkers	1-甲基组胺
+29	1-Methylhistidine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	1-甲基组氨酸
+30	1-Methylhistidine	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Clinical	Chemical Biomarkers	1-甲基组氨酸
+31	1-Methylinosine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	1-甲基肌苷
+32	1-Methylnicotinamide	Pellagra	Skin Disorder	Pellagra	Investigational	Chemical Biomarkers	1-甲基烟酰胺
+33	1-Methylnicotinamide	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	1-甲基烟酰胺
+34	1-Naphthol	1-Naphthol Exposure	Exposure	1-Naphthol Exposure	Clinical	Chemical Biomarkers	1-萘酚
+35	11-Dehydro-thromboxane B2	Angina	Cardiovascular System Disorder	Angina	Investigational	Chemical Biomarkers	11-脱氢血栓烷B2
+36	11b-PGF2a	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	11b-PGF2a
+37	12-HETE	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Investigational	Chemical Biomarkers	12-HETE
+38	13(S)-hydroxyoctadecadienoic acid	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	
+39	15(S)-HETE	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Investigational	Chemical Biomarkers	
+40	17-Hydroxyprogesterone	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Musculoskeletal System Disorder	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Investigational	Chemical Biomarkers	17-羟孕酮
+41	17-Hydroxyprogesterone	Congenital Adrenal Hyperplasia	Endocrine System Disorder	Congenital Adrenal Hyperplasia	Investigational	Chemical Biomarkers	17-羟孕酮
+42	17a-Hydroxypregnenolone	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Musculoskeletal System Disorder	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Investigational	Chemical Biomarkers	17a-羟孕烯醇酮
+43	17a-Hydroxypregnenolone	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Investigational	Chemical Biomarkers	17a-羟孕烯醇酮
+44	18-Hydroxycorticosterone	Aldosterone Biosynthesis Defects	Germ-Line Disorder,Endocrine System Disorder	Aldosterone Biosynthesis Defects	Investigational	Chemical Biomarkers	18-羟基皮质酮
+45	2,2',3,3',4,4',5,5',6,6'-Decachlorobiphenyl	2,2',3,3',4,4',5,5',6,6'-Decachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,3',4,4',5,5',6,6'-Decachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+46	2,2',3,3',4,4',5-Heptachlorobiphenyl	2,2',3,3',4,4',5-Heptachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,3',4,4',5-Heptachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+47	2,2',3,3',4,4'-Hexachlorobiphenyl	2,2',3,3',4,4'-Hexachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,3',4,4'-Hexachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+48	2,2',3,4',5',6-Hexachlorobiphenyl	2,2',3,4',5',6-Hexachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,4',5',6-Hexachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+49	2,2',3,4',5,5',6-Heptachlorobiphenyl	2,2',3,4',5,5',6-Heptachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,4',5,5',6-Heptachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+50	2,2',3,4,4',5'-Hexachlorobiphenyl	2,2',3,4,4',5'-Hexachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,4,4',5'-Hexachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+51	2,2',3,4,4',5,5'-Heptachlorobiphenyl	2,2',3,4,4',5,5'-Heptachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,4,4',5,5'-Heptachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+52	2,2',3,5,5',6-Hexachlorobiphenyl	2,2',3,5,5',6-Hexachlorobiphenyl (PCB) Exposure	Exposure	2,2',3,5,5',6-Hexachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+53	2,2',4,4',5,5'-Hexachlorobiphenyl	2,2',4,4',5,5'-Hexachlorobiphenyl (PCB) Exposure	Exposure	2,2',4,4',5,5'-Hexachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+54	2,2',4,4',5-Pentachlorobiphenyl	2,2',4,4',5-Pentachlorobiphenyl (PCB) Exposure	Exposure	2,2',4,4',5-Pentachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+55	2,2',4,5,5'-Pentachlorobiphenyl	2,2',4,5,5'-Pentachlorobiphenyl (PCB) Exposure	Exposure	2,2',4,5,5'-Pentachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+56	2,2',5,5'-Tetrachlorobiphenyl	2,2',5,5'-Tetrachlorobiphenyl (PCB) Exposure	Exposure	2,2',5,5'-Tetrachlorobiphenyl (PCB) Exposure	Clinical	Chemical Biomarkers	
+57	2,2’,3,4,4’-Pentabromodiphenyl ether	2,2’,3,4,4’-Pentabromodiphenyl ether (PBDE) Exposure	Exposure	2,2’,3,4,4’-Pentabromodiphenyl ether (PBDE) Exposure	Clinical	Chemical Biomarkers	
+58	2,2’,4,4’-Tetrabromodiphenyl ether	2,2’,4,4’-Tetrabromodiphenyl ether (PBDE) Exposure	Exposure	2,2’,4,4’-Tetrabromodiphenyl ether (PBDE) Exposure	Clinical	Chemical Biomarkers	
+59	2,3-Butanediol	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	2,3-丁二醇
+60	2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine	2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine Exposure	Exposure	2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine Exposure	Clinical	Chemical Biomarkers	
+61	2-Amino-9H-pyrido[2,3-b]indole	2-Amino-9H-pyrido[2,3-b]indole (A-α-C) Exposure	Exposure	2-Amino-9H-pyrido[2,3-b]indole (A-α-C) Exposure	Clinical	Chemical Biomarkers	
+62	2-Aminobenzoic acid	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	2-氨基苯甲酸
+63	2-Ethylhydracrylic acid	3-Methylglutaconic Aciduria Type I	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	3-Methylglutaconic Aciduria Type I	Clinical	Chemical Biomarkers	2-乙基氢丙烯酸
+64	2-Ethylhydracrylic acid	Type V 3-Methylglutaconic Aciduria	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	Type V 3-Methylglutaconic Aciduria	Clinical	Chemical Biomarkers	2-乙基氢丙烯酸
+65	2-Ethylhydracrylic acid	2 Methylbutyryl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	2 Methylbutyryl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	2-乙基氢丙烯酸
+66	2-Furancarboxaldehyde	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+67	2-Heptanone	Hepatic Encephalopathy	Others,Nervous System Disorder,Digestive System Disorder	Hepatic Encephalopathy	Investigational	Chemical Biomarkers	2-庚酮
+68	2-Heptanone	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	2-庚酮
+69	2-Hexenal	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	
+70	2-Hydroxyadipic acid	Alpha Aminoadipic Aciduria	Germ-Line Disorder	Alpha Aminoadipic Aciduria	Clinical	Chemical Biomarkers	2-羟基己二酸
+71	2-Hydroxybutyric acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Clinical	Chemical Biomarkers	2-羟基丁酸
+72	2-Hydroxyfluorene	2-Hydroxyfluorene Exposure	Exposure	2-Hydroxyfluorene Exposure	Clinical	Chemical Biomarkers	2-羟基芴
+73	2-Hydroxyglutarate	D 2 Hydroxyglutaric Aciduria	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	D 2 Hydroxyglutaric Aciduria	Clinical	Chemical Biomarkers	
+74	2-Hydroxyglutarate	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	
+75	2-Methoxyestradiol	Ovarian Cancer	Cancer,Female Reproductive System Disorder,Endocrine System Disorder	Ovarian Cancer	Investigational	Chemical Biomarkers	2-甲氧基雌二醇
+76	2-Methylbutyrylglycine	2 Methylbutyryl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	2 Methylbutyryl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	2-甲基丁酰甘氨酸
+77	2-Methylcitric acid	Biotinidase Deficiency	Metabolic Disorder	Biotinidase Deficiency	Clinical	Chemical Biomarkers	2-甲基柠檬酸
+78	2-Methylglutaric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	2-甲基戊二酸
+79	2-Naphthol	2-Naphthol Exposure	Exposure	2-Naphthol Exposure	Clinical	Chemical Biomarkers	2-萘酚
+80	2-Nonenal	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+81	2-Oxoarginine	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	2-氧代精氨酸
+82	2-Oxoarginine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	2-氧代精氨酸
+83	2-Phenylpropionate	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	2-苯基丙酸酯
+84	20-Hydroxyeicosatetraenoic acid	Kidney Transplantation	Others	Kidney Transplantation	Investigational	Chemical Biomarkers	20-羟基二十碳四烯酸
+85	24-Hydroxycholesterol	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	24-羟基胆固醇
+86	24-Hydroxycholesterol	Mild Cognitive Impairment	Mental or Behavioural Disorder	Mild Cognitive Impairment	Investigational	Chemical Biomarkers	24-羟基胆固醇
+87	25-Hydroxyvitamin D2	Nephrotic Syndrome	Others,Urinary System Disorder	Nephrotic Syndrome	Investigational	Chemical Biomarkers	25-羟基维生素D2
+88	27-Hydroxycholesterol	Subarachnoid Hemorrhage	Hematological or Lymphatic System Disorder,Nervous System Disorder	Subarachnoid Hemorrhage	Investigational	Chemical Biomarkers	27-羟基胆固醇
+89	27-Hydroxycholesterol	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	27-羟基胆固醇
+90	27-Hydroxycholesterol	Mild Cognitive Impairment	Mental or Behavioural Disorder	Mild Cognitive Impairment	Investigational	Chemical Biomarkers	27-羟基胆固醇
+91	3,4-Dihydroxybenzeneacetic acid	Encephalitis	Nervous System Disorder	Encephalitis	Investigational	Chemical Biomarkers	
+92	3,4-Dihydroxyhydrocinnamic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	
+93	3,5-Diiodo-L-tyrosine	Chronic Kidney Disease	Urinary System Disorder	Chronic Kidney Disease	Investigational	Chemical Biomarkers	3,5-二碘-L-酪氨酸
+94	3,5-Diiodothyronine	Hyperthyroidism	Immune System Disorder,Endocrine System Disorder	Hyperthyroidism	Investigational	Chemical Biomarkers	3,5-二碘甲状腺原氨酸
+95	3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid	Autism	Mental or Behavioural Disorder	Autism	Clinical	Chemical Biomarkers	
+96	3-Aminoisobutanoic acid	Aldehyde Dehydrogenase Deficiency	Visual System Disorder,Germ-Line Disorder,Skin Disorder,Nervous System Disorder,Metabolic Disorder	Aldehyde Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	3-氨基异丁酸
+97	3-Chlorotyrosine	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	3-氯酪氨酸
+98	3-Hydroxybutyrylcarnitine	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	
+99	3-Hydroxyisovaleric acid	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	3-羟基异戊酸
+100	3-Hydroxyisovaleric acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Clinical	Chemical Biomarkers	3-羟基异戊酸
+101	3-Hydroxyisovaleric acid	3-Methylglutaconic Aciduria Type I	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	3-Methylglutaconic Aciduria Type I	Clinical	Chemical Biomarkers	3-羟基异戊酸
+102	3-Hydroxyisovaleric acid	Biotinidase Deficiency	Metabolic Disorder	Biotinidase Deficiency	Clinical	Chemical Biomarkers	3-羟基异戊酸
+103	3-Hydroxyisovaleric acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Clinical	Chemical Biomarkers	3-羟基异戊酸
+104	3-Hydroxyisovalerylcarnitine	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	
+105	3-Hydroxymethylglutaric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	3-羟甲基戊二酸
+106	3-Hydroxypropionic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	3-羟丙酸
+107	3-Methoxytyrosine	Purine Nucleoside Phosphorylase Deficiency	Immune System Disorder,Germ-Line Disorder,Metabolic Disorder	Purine Nucleoside Phosphorylase Deficiency	Clinical	Chemical Biomarkers	3-甲氧基酪氨酸
+108	3-Methoxytyrosine	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	3-甲氧基酪氨酸
+109	3-Methoxytyrosine	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	3-甲氧基酪氨酸
+110	3-Methoxytyrosine	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	3-甲氧基酪氨酸
+111	3-Methyladipic acid	Infantile Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Investigational	Chemical Biomarkers	3-甲基己二酸
+112	3-Methyladipic acid	Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Investigational	Chemical Biomarkers	3-甲基己二酸
+113	3-Methylcrotonylglycine	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	3-甲基巴豆酰甘氨酸
+114	3-Methylcrotonylglycine	Biotinidase Deficiency	Metabolic Disorder	Biotinidase Deficiency	Clinical	Chemical Biomarkers	3-甲基巴豆酰甘氨酸
+115	3-Methylglutaconic acid	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	3-甲基谷氨酸
+116	3-Methylglutaconic acid	Type V 3-Methylglutaconic Aciduria	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	Type V 3-Methylglutaconic Aciduria	Clinical	Chemical Biomarkers	3-甲基谷氨酸
+117	3-Methylglutaconic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	3-甲基谷氨酸
+118	3-Methylglutaconic acid	3-Methylglutaconic Aciduria Type I	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	3-Methylglutaconic Aciduria Type I	Clinical	Chemical Biomarkers	3-甲基谷氨酸
+119	3-Methylglutarylcarnitine	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	
+120	3-Methylhistidine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	3-甲基组氨酸
+121	3-Methylthiopropionic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	3-甲硫丙酸
+122	3-Methylxanthine	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	
+123	3-Nitrotyrosine	Hypoxic Ischemic Encephalopathy	Nervous System Disorder,Cardiovascular System Disorder	Hypoxic Ischemic Encephalopathy	Investigational	Chemical Biomarkers	3-硝基酪氨酸
+124	4-Decenal	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	
+125	4-Guanidinobutanoic acid	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	4-胍基丁酸
+126	4-Hydroxybutyric acid	Aldehyde Dehydrogenase Deficiency	Visual System Disorder,Germ-Line Disorder,Skin Disorder,Nervous System Disorder,Metabolic Disorder	Aldehyde Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	4-羟基丁酸
+127	4-Hydroxyhippuric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	
+128	4-Hydroxynonenal	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	4-羟基壬烯醛
+129	5-Aminolevulinic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	5-氨基乙酰丙酸
+130	5-HETE	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	5-HETE
+131	5-HETE	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	5-HETE
+132	5-HETE	Rhinitis	Otorhinolaryngologic Disorder	Rhinitis	Investigational	Chemical Biomarkers	5-HETE
+133	5-HETE	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	5-HETE
+134	5-Hydroxy-L-tryptophan	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	5-羟基-L-色氨酸
+135	5-Hydroxyindoleacetic acid	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+136	5-Hydroxyindoleacetic acid	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+137	5-Hydroxyindoleacetic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+138	5-Hydroxyindoleacetic acid	Bipolar Disorder	Mental or Behavioural Disorder	Bipolar Disorder	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+139	5-Hydroxyindoleacetic acid	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+140	5-Hydroxyindoleacetic acid	Carcinoid Tumors	Cancer	Carcinoid Tumors	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+141	5-Hydroxyindoleacetic acid	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+142	5-Hydroxyindoleacetic acid	Epilepsy	Nervous System Disorder	Epilepsy	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+143	5-Hydroxyindoleacetic acid	Brunner Syndrome	Germ-Line Disorder,Nervous System Disorder	Brunner Syndrome	Clinical	Chemical Biomarkers	5-羟基吲哚乙酸
+144	5-Hydroxylysine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	5-羟基赖氨酸
+145	5-Hydroxylysine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	5-羟基赖氨酸
+146	5-Methyltetrahydrofolic acid	A.I.D.S.	Immune System Disorder,Viral Infection	A.I.D.S.	Investigational	Chemical Biomarkers	5-甲基四氢叶酸
+147	5-alpha-Cholestanol	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	5-α-胆甾烷醇
+148	5a-Pregnane-3,20-dione	Prepartum Depression	Mental or Behavioural Disorder	Prepartum Depression	Investigational	Chemical Biomarkers	5a-孕烷-3,20-二酮
+149	6-Keto-prostaglandin F1a	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	6-酮-前列腺素F1a
+150	6-Keto-prostaglandin F1a	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	6-酮-前列腺素F1a
+151	6-Keto-prostaglandin F1a	Cardiopulmonary Resuscitation	Others	Cardiopulmonary Resuscitation	Investigational	Chemical Biomarkers	6-酮-前列腺素F1a
+152	7a-Hydroxycholesterol	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	7a-羟基胆固醇
+153	8-Dehydrocholesterol	Smith Lemli Opitz Syndrome	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Smith Lemli Opitz Syndrome	Investigational	Chemical Biomarkers	8-脱氢胆固醇
+154	8-Hydroxyguanine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	8-羟基鸟嘌呤
+155	8-Hydroxyguanosine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	8-羟基鸟苷
+156	ADP	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	ADP
+157	ADP	Subarachnoid Hemorrhage	Hematological or Lymphatic System Disorder,Nervous System Disorder	Subarachnoid Hemorrhage	Investigational	Chemical Biomarkers	ADP
+158	ADP	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	ADP
+159	Acetaldehyde	Aldehyde Dehydrogenase Deficiency	Visual System Disorder,Germ-Line Disorder,Skin Disorder,Nervous System Disorder,Metabolic Disorder	Aldehyde Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	乙醛
+160	Acetic acid	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	醋酸
+161	Acetic acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Chemical Biomarkers	醋酸
+162	Acetoacetic acid	Glucose Transporter Type 1 Deficiency Syndrome	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Metabolic Disorder,Mental or Behavioural Disorder	Glucose Transporter Type 1 Deficiency Syndrome	Clinical	Chemical Biomarkers	乙酰乙酸
+163	Acetoacetic acid	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	乙酰乙酸
+164	Acetoacetic acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Clinical	Chemical Biomarkers	乙酰乙酸
+165	Acetoin	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	3-羟基丁酮
+166	Acetone	Hepatic Encephalopathy	Others,Nervous System Disorder,Digestive System Disorder	Hepatic Encephalopathy	Clinical	Chemical Biomarkers	丙酮
+167	Acetone	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Clinical	Chemical Biomarkers	丙酮
+168	Acetone	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Clinical	Chemical Biomarkers	丙酮
+169	Acetylcholine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	乙酰胆碱
+170	Acetylcholinesterase	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Protein Biomarkers	乙酰胆碱酯酶
+171	Acetylglycine	Aminoacylase I Deficiency	Germ-Line Disorder,Metabolic Disorder	Aminoacylase I Deficiency	Clinical	Chemical Biomarkers	乙酰甘氨酸
+172	Acrolein	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	
+173	Adenine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	腺嘌呤
+174	Adenosine	Adenylosuccinate Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Adenylosuccinate Lyase Deficiency	Clinical	Chemical Biomarkers	腺苷
+175	Adenosine	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	腺苷
+176	Adenosine deaminase	Tuberculosis	Bacterial Infection	Tuberculosis	Investigational	Protein Biomarkers	腺苷脱氨酶
+177	Adenosine triphosphate	Stroke	Cardiovascular System Disorder	Stroke	Investigational	Chemical Biomarkers	三磷酸腺苷
+178	Adenosine triphosphate	Subarachnoid Hemorrhage	Hematological or Lymphatic System Disorder,Nervous System Disorder	Subarachnoid Hemorrhage	Investigational	Chemical Biomarkers	三磷酸腺苷
+179	Adipic acid	Carnitine Acylcarnitine Translocase Deficiency	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	Carnitine Acylcarnitine Translocase Deficiency	Clinical	Chemical Biomarkers	己二酸
+180	Adrenocorticotropic hormone	Cushing's Syndrome	Endocrine System Disorder	Cushing's Syndrome	Investigational	Protein Biomarkers	促腎上腺皮質激素
+181	Adrenocorticotropic hormone	Addison's Disease	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Nervous System Disorder,Endocrine System Disorder,Urinary System Disorder	Addison's Disease	Investigational	Protein Biomarkers	促腎上腺皮質激素
+182	Alanine transaminase	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	谷丙氨酸转氨酶
+183	Alanine transaminase	Chronic Active Hepatitis	Others	Chronic Active Hepatitis	Investigational	Protein Biomarkers	谷丙氨酸转氨酶
+184	Albumin	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	白蛋白
+185	Albumin	Chronic Kidney Disease	Urinary System Disorder	Chronic Kidney Disease	Investigational	Protein Biomarkers	白蛋白
+186	Albumin	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Protein Biomarkers	白蛋白
+187	Aldolase A	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Protein Biomarkers	醛缩酶A
+188	Aldolase A	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Protein Biomarkers	醛缩酶A
+189	Aldolase A	Hepatocellular Carcinoma	Cancer,Digestive System Disorder	Hepatocellular Carcinoma	Investigational	Protein Biomarkers	醛缩酶A
+190	Aldolase A	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Protein Biomarkers	醛缩酶A
+191	Aldolase A	Myocardial Infarction	Others,Cardiovascular System Disorder	Myocardial Infarction	Investigational	Protein Biomarkers	醛缩酶A
+192	Aldolase A	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Protein Biomarkers	醛缩酶A
+193	Aldolase A	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Protein Biomarkers	醛缩酶A
+194	Aldolase A	Myopathy Related To Systemic Sclerosis	Visual System Disorder	Myopathy Related To Systemic Sclerosis	Investigational	Protein Biomarkers	醛缩酶A
+195	Aldolase A	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Protein Biomarkers	醛缩酶A
+196	Aldolase A	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Protein Biomarkers	醛缩酶A
+197	Aldolase A	Prostate Cancer	Cancer,Germ-Line Disorder,Male Reproductive System Disorder,Nervous System Disorder	Prostate Cancer	Investigational	Protein Biomarkers	醛缩酶A
+198	Aldolase A	Renal Cell Carcinoma	Cancer,Urinary System Disorder	Renal Cell Carcinoma	Investigational	Protein Biomarkers	醛缩酶A
+199	Aldolase A	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	醛缩酶A
+200	Aldolase A	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Protein Biomarkers	醛缩酶A
+201	Aldosterone	Corticosterone Methyloxidase Type I Deficiency	Germ-Line Disorder,Metabolic Disorder,Endocrine System Disorder	Corticosterone Methyloxidase Type I Deficiency	Clinical	Chemical Biomarkers	醛甾酮
+202	Aldosterone	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Clinical	Chemical Biomarkers	醛甾酮
+203	Aldosterone	Antenatal Bartter Syndrome Type 1	Metabolic Disorder	Antenatal Bartter Syndrome Type 1	Clinical	Chemical Biomarkers	醛甾酮
+204	Aldosterone	Type 4B Bartter Syndrome	Germ-Line Disorder,Otorhinolaryngologic Disorder,Metabolic Disorder,Urinary System Disorder	Type 4B Bartter Syndrome	Clinical	Chemical Biomarkers	醛甾酮
+205	Aldosterone	Antenatal Bartter Syndrome Type II	Metabolic Disorder	Antenatal Bartter Syndrome Type II	Clinical	Chemical Biomarkers	醛甾酮
+206	Aldosterone	Congenital Adrenal Hyperplaia due to 17-alpha-Hydroxylase Deficiency	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder,Endocrine System Disorder	Congenital Adrenal Hyperplaia due to 17-alpha-Hydroxylase Deficiency	Clinical	Chemical Biomarkers	醛甾酮
+207	Allopregnanolone	Prepartum Depression	Mental or Behavioural Disorder	Prepartum Depression	Investigational	Chemical Biomarkers	
+208	Alpha-1-antitrypsin	Alpha 1 Antitrypsin Deficiency	Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Respiratory System Disorder,Urinary System Disorder	Alpha 1 Antitrypsin Deficiency	Investigational	Protein Biomarkers	α1-抗胰蛋白酶
+209	Alpha-Hydroxyisobutyric acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Investigational	Chemical Biomarkers	Α-羟基异丁酸
+210	Alpha-Hydroxyisobutyric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	Α-羟基异丁酸
+211	Alpha-Lactose	Adult Type Lactose Intolerance	Metabolic Disorder	Adult Type Lactose Intolerance	Investigational	Chemical Biomarkers	Α-乳糖
+212	Alpha-Linolenic acid	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	α-亚麻酸
+213	Alpha-N-Phenylacetyl-L-glutamine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	Α-N-苯乙酰基-L-谷氨酰胺
+214	Alpha-Tocopherol	Abetalipoproteinemia	Visual System Disorder,Germ-Line Disorder,Hematological or Lymphatic System Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder,Digestive System Disorder	Abetalipoproteinemia	Investigational	Chemical Biomarkers	α-生育酚
+215	Alpha-fetoprotein	Down Syndrome	Others	Down Syndrome	Investigational	Protein Biomarkers	甲胎蛋白
+216	Alpha-fetoprotein	Renal Cell Carcinoma	Cancer,Urinary System Disorder	Renal Cell Carcinoma	Investigational	Protein Biomarkers	甲胎蛋白
+217	Alpha-fetoprotein	Hepatocellular Carcinoma	Cancer,Digestive System Disorder	Hepatocellular Carcinoma	Investigational	Protein Biomarkers	甲胎蛋白
+218	Aluminum	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	铝自然色
+219	Aminoadipic acid	Alpha Aminoadipic Aciduria	Germ-Line Disorder	Alpha Aminoadipic Aciduria	Clinical	Chemical Biomarkers	氨基己二酸
+220	Ammonia	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	氨
+221	Ammonia	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	氨
+222	Ammonia	Classic Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Classic Citrullinemia	Investigational	Chemical Biomarkers	氨
+223	Ammonia	Adult Onset Type II Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Digestive System Disorder	Adult Onset Type II Citrullinemia	Investigational	Chemical Biomarkers	氨
+224	Ammonium	Coenzyme Q10 Deficiency	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Coenzyme Q10 Deficiency	Clinical	Chemical Biomarkers	
+225	Amylase	Acute Pancreatitis	Digestive System Disorder	Acute Pancreatitis	Investigational	Protein Biomarkers	淀粉酶
+226	Amyloid Beta42	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Protein Biomarkers	淀粉样蛋白β42
+227	Anandamide	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	阿南达胺
+228	Anandamide	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	阿南达胺
+229	Androstanediol	Prostate Cancer	Cancer,Germ-Line Disorder,Male Reproductive System Disorder,Nervous System Disorder	Prostate Cancer	Investigational	Chemical Biomarkers	雄甾烷二醇
+230	Androstenedione	Congenital Adrenal Hyperplasia	Endocrine System Disorder	Congenital Adrenal Hyperplasia	Clinical	Chemical Biomarkers	雄烯二酮
+231	Androstenedione	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Clinical	Chemical Biomarkers	雄烯二酮
+232	Androstenedione	11 Beta Hydroxylase Deficiency	Germ-Line Disorder,Female Reproductive System Disorder,Endocrine System Disorder	11 Beta Hydroxylase Deficiency	Clinical	Chemical Biomarkers	雄烯二酮
+233	Androstenedione	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Clinical	Chemical Biomarkers	雄烯二酮
+234	Androstenedione	Polycystic Ovary Syndrome	Female Reproductive System Disorder,Endocrine System Disorder	Polycystic Ovary Syndrome	Clinical	Chemical Biomarkers	雄烯二酮
+235	Androstenedione	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Clinical	Chemical Biomarkers	雄烯二酮
+236	Angiotensin II	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	血管紧张素Ⅱ
+237	Angiotensin II	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	血管紧张素Ⅱ
+238	Angiotensin-converting enzyme	Pulmonary Sarcoidosis	Immune System Disorder	Sarcoidosis	Investigational	Protein Biomarkers	血管紧张素转换酶
+239	Angiotensin-converting enzyme	Sarcoidosis	Immune System Disorder	Sarcoidosis	Investigational	Protein Biomarkers	血管紧张素转换酶
+240	Anserine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	鹅肌肽
+241	Anserine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	鹅肌肽
+242	Anti-Smith Antibodies	Systemic Lupus Erythematosus	Immune System Disorder,Skin Disorder	Systemic Lupus Erythematosus	Investigational	Protein Biomarkers	抗史密斯抗体
+243	Anti-acetylcholine receptor antibody	Myasthenia Gravis	Immune System Disorder,Nervous System Disorder	Myasthenia Gravis	Investigational	Protein Biomarkers	抗乙酰胆碱受体抗体
+244	Anti-beta2 glycoprotein1	Thrombosis	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Thrombosis	Investigational	Protein Biomarkers	抗β2糖蛋白1
+245	Anti-cyclic Citrullinated Peptide	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Protein Biomarkers	抗环瓜氨酸肽
+246	Anti-cyclic Citrullinated Peptide	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Protein Biomarkers	抗环瓜氨酸肽
+247	Anti-double stranded DNA antibodies	Systemic Lupus Erythematosus	Immune System Disorder,Skin Disorder	Systemic Lupus Erythematosus	Investigational	Protein Biomarkers	抗双链DNA抗体
+248	Anti-gliadin antibody IgA	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Protein Biomarkers	抗鸟苷酸抗体IgA
+249	Anti-gliadin antibody IgG	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Protein Biomarkers	抗鸟苷酸抗体IgG
+250	Anti-ribosomal P antibodies	Systemic Lupus Erythematosus	Immune System Disorder,Skin Disorder	Systemic Lupus Erythematosus	Investigational	Protein Biomarkers	抗核糖体P抗体
+251	Anticardiolipin antibody	Thrombosis	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Thrombosis	Investigational	Protein Biomarkers	抗心磷脂抗体
+252	Antimony	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	锑
+253	Antineutrophil cytoplasmic antibodies	Systemic Necrotising Vasculitis	Cardiovascular System Disorder	Systemic Necrotising Vasculitis	Investigational	Protein Biomarkers	抗中性粒细胞胞质抗体
+254	Antithrombin	Antithrombin III Deficiency	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Antithrombin III Deficiency	Investigational	Protein Biomarkers	抗凝血酶
+255	Apolipoprotein A1	Coronary Artery Disease	Others,Cardiovascular System Disorder	Coronary Artery Disease	Investigational	Protein Biomarkers	载脂蛋白A1
+256	Apolipoprotein B-100	Cardiovascular disease	Cardiovascular System Disorder	Cardiovascular disease	Investigational	Protein Biomarkers	载脂蛋白B-100
+257	Apolipoprotein E	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Protein Biomarkers	载脂蛋白E
+258	Arachidonic acid	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	
+259	Arachidonic acid	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	
+260	Argininosuccinic acid	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	精氨基琥珀酸
+261	Ascorbic acid	Hyperoxalemia	Germ-Line Disorder,Others,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder	Hyperoxalemia	Investigational	Chemical Biomarkers	抗坏血酸
+262	Ascorbic acid	Primary hyperoxaluria Type I	Germ-Line Disorder,Others,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder	Hyperoxalemia	Investigational	Chemical Biomarkers	抗坏血酸
+263	Aspartate Transaminase	Diabetes Mellitus	Metabolic Disorder,Endocrine System Disorder	Diabetes Mellitus	Investigational	Protein Biomarkers	天门冬氨酸氨基转移酶
+264	Aspartate Transaminase	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	天门冬氨酸氨基转移酶
+265	Aspartate Transaminase	Diabetes Mellitus Type 1	Metabolic Disorder,Endocrine System Disorder	Diabetes Mellitus	Investigational	Protein Biomarkers	天门冬氨酸氨基转移酶
+266	Aspartate Transaminase	Diabetes Mellitus Type 2	Metabolic Disorder,Endocrine System Disorder	Diabetes Mellitus	Investigational	Protein Biomarkers	天门冬氨酸氨基转移酶
+267	Aspartylglycosamine	Aspartylglucosaminuria	Germ-Line Disorder,Metabolic Disorder	Aspartylglucosaminuria	Investigational	Chemical Biomarkers	天冬氨酰基糖胺
+268	Asymmetric Dimethyl-L-arginine	Hypertension	Cardiovascular System Disorder	Hypertension	Clinical	Chemical Biomarkers	不对称二甲基-L-精氨酸
+269	Asymmetric Dimethyl-L-arginine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Clinical	Chemical Biomarkers	不对称二甲基-L-精氨酸
+270	Azelaic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	壬二酸
+271	B-Carotene	Endometrial Cancer	Cancer,Female Reproductive System Disorder	Endometrial Cancer	Investigational	Chemical Biomarkers	β-胡萝卜素
+272	Benzene	Benzene Exposure	Exposure,Others	Benzene Exposure	Clinical	Chemical Biomarkers	苯
+273	Benzoic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	苯甲酸
+274	Beta-Alanine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	β-丙氨酸
+275	Betaine	Hemodialysis	Others	Hemodialysis	Investigational	Chemical Biomarkers	甜菜碱
+276	Betaine	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	甜菜碱
+277	Betaine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	甜菜碱
+278	Betaine	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Chemical Biomarkers	甜菜碱
+279	Betaine	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Investigational	Chemical Biomarkers	甜菜碱
+280	Bilirubin	Growth Hormone Deficiency	Endocrine System Disorder	Growth Hormone Deficiency	Clinical	Chemical Biomarkers	胆红素
+281	Bilirubin	Classic Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Classic Citrullinemia	Investigational	Chemical Biomarkers	胆红素
+282	Bilirubin	Congenital Bile Acid Synthesis Defect	Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder	Congenital Bile Acid Synthesis Defect	Investigational	Chemical Biomarkers	胆红素
+283	Bilirubin	Donohue Syndrome	Germ-Line Disorder,Musculoskeletal System Disorder,Metabolic Disorder,Endocrine System Disorder	Donohue Syndrome	Investigational	Chemical Biomarkers	胆红素
+284	Bilirubin	Lecithin:Cholesterol Acyltransferase Deficiency	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder	Lecithin:Cholesterol Acyltransferase Deficiency	Clinical	Chemical Biomarkers	胆红素
+285	Bilirubin	Crigler Najjar Syndrome	Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder	Crigler Najjar Syndrome	Investigational	Chemical Biomarkers	胆红素
+286	Bilirubin	Lathosterolosis	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Metabolic Disorder,Mental or Behavioural Disorder	Lathosterolosis	Investigational	Chemical Biomarkers	胆红素
+287	Bilirubin	Glucose 6 Phosphate Dehydrogenase Deficiency	Hematological or Lymphatic System Disorder	Glucose 6 Phosphate Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	胆红素
+288	Bilirubin	Cerebral Vasospasm	Cardiovascular System Disorder	Cerebral Vasospasm	Investigational	Chemical Biomarkers	胆红素
+289	Biotin	Head Injury	Others	Head Injury	Investigational	Chemical Biomarkers	维生素
+290	Biotin	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	维生素
+291	Bone specific alkaline phosphatase	Osteomalacia	Musculoskeletal System Disorder	Osteomalacia	Investigational	Protein Biomarkers	骨特异性碱性磷酸酶
+292	Bone specific alkaline phosphatase	Bone Metastases	Cancer	Bone Metastases	Investigational	Protein Biomarkers	骨特异性碱性磷酸酶
+293	Brain natriuretic peptide	Congestive Heart Failure	Cardiovascular System Disorder	Congestive Heart Failure	Investigational	Protein Biomarkers	脑钠肽
+294	Butanone	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	丁酮
+295	Butyl propionate	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	丙酸丁酯
+296	Butyric acid	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	丁酸
+297	Butyric acid	A.I.D.S.	Immune System Disorder,Viral Infection	A.I.D.S.	Investigational	Chemical Biomarkers	丁酸
+298	Butyric acid	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	丁酸
+299	Butyrylcarnitine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	丁酰肉碱
+300	Butyrylcholinesterase	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	丁酰胆碱酯酶
+301	C-reactive protein	Non-specific Inflammation	Immune System Disorder	Non-specific Inflammation	Investigational	Protein Biomarkers	C反应蛋白
+302	C-reactive protein	Inflammatory Bowel Disease	Digestive System Disorder	Inflammatory Bowel Disease	Investigational	Protein Biomarkers	C反应蛋白
+303	C-reactive protein	Cardiovascular disease	Cardiovascular System Disorder	Cardiovascular disease	Investigational	Protein Biomarkers	C反应蛋白
+304	C-reactive protein	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Protein Biomarkers	C反应蛋白
+305	C-terminal telopeptide	L1 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	C端端肽
+306	C-terminal telopeptide	Vertebral Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	C端端肽
+307	C-terminal telopeptide	L2 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	C端端肽
+308	C-terminal telopeptide	Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	C端端肽
+309	C-terminal telopeptide	Femoral Neck Osteoporsis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	C端端肽
+310	CA 19-9 tumor marker	Intestinal Included Gastric Cancer	Cancer,Digestive System Disorder	Intestinal Included Gastric Cancer	Investigational	Protein Biomarkers	CA 19-9肿瘤标志物
+311	Cadmium	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	镉
+312	Cadmium	Macular Degeneration	Visual System Disorder	Macular Degeneration	Clinical	Chemical Biomarkers	镉
+313	Caffeine	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	咖啡因
+314	Calcidiol	Nephrotic Syndrome	Others,Urinary System Disorder	Nephrotic Syndrome	Investigational	Chemical Biomarkers	Calcidiol
+315	Calcium	Antenatal Bartter Syndrome Type II	Metabolic Disorder	Antenatal Bartter Syndrome Type II	Clinical	Chemical Biomarkers	钙
+316	Calcium	Type 4B Bartter Syndrome	Germ-Line Disorder,Otorhinolaryngologic Disorder,Metabolic Disorder,Urinary System Disorder	Type 4B Bartter Syndrome	Clinical	Chemical Biomarkers	钙
+317	Calcium	Antenatal Bartter Syndrome Type 1	Metabolic Disorder	Antenatal Bartter Syndrome Type 1	Clinical	Chemical Biomarkers	钙
+318	Calprotectin	Inflammatory Bowel Disease	Digestive System Disorder	Inflammatory Bowel Disease	Investigational	Protein Biomarkers	钙卫蛋白
+319	Caproic acid	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	己酸
+320	Carbohydrate Antigen 125	Type 2 Epithilial Ovarian Cancer	Cancer,Female Reproductive System Disorder	Type 2 Epithilial Ovarian Cancer	Investigational	Protein Biomarkers	糖类抗原
+321	Carbohydrate Antigen 125	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	糖类抗原
+322	Carbohydrate Antigen 125	Type 1 Epithilial Ovarian Cancer	Cancer,Female Reproductive System Disorder	Type 1 Epithilial Ovarian Cancer	Investigational	Protein Biomarkers	糖类抗原
+323	Carbohydrate Antigen 125	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	糖类抗原
+324	Cardiac  Troponin I	Myocardial Infarction	Others,Cardiovascular System Disorder	Myocardial Infarction	Investigational	Protein Biomarkers	心肌肌钙蛋白I
+325	Cardiac Troponin T	Cardiac Arrest	Others	Cardiac Arrest	Investigational	Protein Biomarkers	心肌肌钙蛋白T
+326	Carnosine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	肌肽
+327	Ceruloplasmin	Wilson's Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Wilson's Disease	Investigational	Protein Biomarkers	血漿銅藍蛋白
+328	Chenodeoxycholic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	鹅脱氧胆酸
+329	Chenodeoxycholic acid	Cystic Fibrosis	Germ-Line Disorder,Male Reproductive System Disorder,Digestive System Disorder,Respiratory System Disorder	Cystic Fibrosis	Investigational	Chemical Biomarkers	鹅脱氧胆酸
+330	Chlorine	Cystic Fibrosis	Germ-Line Disorder,Male Reproductive System Disorder,Digestive System Disorder,Respiratory System Disorder	Cystic Fibrosis	Investigational	Chemical Biomarkers	氯
+331	Cholesterol	Donohue Syndrome	Germ-Line Disorder,Musculoskeletal System Disorder,Metabolic Disorder,Endocrine System Disorder	Donohue Syndrome	Clinical	Chemical Biomarkers	胆固醇
+332	Cholesterol	Smith Lemli Opitz Syndrome	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Smith Lemli Opitz Syndrome	Clinical	Chemical Biomarkers	胆固醇
+333	Cholesterol sulfate	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	硫酸胆固醇
+334	Cholic acid	Cystic Fibrosis	Germ-Line Disorder,Male Reproductive System Disorder,Digestive System Disorder,Respiratory System Disorder	Cystic Fibrosis	Investigational	Chemical Biomarkers	胆酸
+335	Choline	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	胆碱
+336	Choline	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Investigational	Chemical Biomarkers	胆碱
+337	Chromium	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	铬
+338	Chromogranin-A	Enterochromaffin Like Cell Hyperplasia	Endocrine System Disorder,Digestive System Disorder	Enterochromaffin Like Cell Hyperplasia	Investigational	Protein Biomarkers	嗜铬粒蛋白A
+339	Chromogranin-A	Bone Metastases	Cancer	Bone Metastases	Investigational	Protein Biomarkers	嗜铬粒蛋白A
+340	Chymotrypsin	Cystic Fibrosis of the Pancreas	Germ-Line Disorder,Digestive System Disorder	Cystic Fibrosis of the Pancreas	Investigational	Protein Biomarkers	胰凝乳蛋白酶
+341	Citric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	柠檬酸
+342	Citric acid	Amish Type Microcephaly	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder	Amish Type Microcephaly	Clinical	Chemical Biomarkers	柠檬酸
+343	Citrulline	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	瓜氨酸
+344	Citrulline	Classic Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Classic Citrullinemia	Clinical	Chemical Biomarkers	瓜氨酸
+345	Citrulline	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	瓜氨酸
+346	Citrulline	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Clinical	Chemical Biomarkers	瓜氨酸
+347	Clostridium difficile glutamate dehydrogenase	Clostridium Difficile Infection	Bacterial Infection	Clostridium Difficile Infection	Investigational	Protein Biomarkers	艰难梭菌谷氨酸脱氢酶
+348	Cobalamin	Megaloblastic Anemia 1	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Megaloblastic Anemia 1	Investigational	Chemical Biomarkers	钴胺素
+349	Cobalt	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	钴
+350	Complement C1	Complement Component 1 Deficiency	Immune System Disorder	Complement Component 1 Deficiency	Investigational	Protein Biomarkers	补体C1
+351	Complement C3	Septic Shock	Bacterial Infection,Parasitic Infection,Viral Infection	Septic Shock	Investigational	Protein Biomarkers	补体C3
+352	Complement C3	Chronic Kidney Disease	Urinary System Disorder	Chronic Kidney Disease	Investigational	Protein Biomarkers	补体C3
+353	Complement C3	Acute Glomerulonephritis	Urinary System Disorder	Acute Glomerulonephritis	Investigational	Protein Biomarkers	补体C3
+354	Complement C3	Systemic Lupus Erythematosus	Immune System Disorder,Skin Disorder	Systemic Lupus Erythematosus	Investigational	Protein Biomarkers	补体C3
+355	Complement C3	Membranoproliferative Glomerulonephritis	Immune System Disorder,Urinary System Disorder	Membranoproliferative Glomerulonephritis	Investigational	Protein Biomarkers	补体C3
+356	Complement C3	Immune Complex Disease	Immune System Disorder	Immune Complex Disease	Investigational	Protein Biomarkers	补体C3
+357	Complement C4	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Protein Biomarkers	补体C4
+358	Complement C4	Systemic Lupus Erythematosus	Immune System Disorder,Skin Disorder	Systemic Lupus Erythematosus	Investigational	Protein Biomarkers	补体C4
+359	Complement C4	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Protein Biomarkers	补体C4
+360	Complement C4	Hereditary Angioedema	Germ-Line Disorder,Others	Hereditary Angioedema	Investigational	Protein Biomarkers	补体C4
+361	Component C2	C2 Deficiency	Immune System Disorder	C2 Deficiency	Investigational	Protein Biomarkers	组件C2
+362	Copper	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	铜
+363	Coprocholic acid	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Investigational	Chemical Biomarkers	
+364	Coprocholic acid	Infantile Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Investigational	Chemical Biomarkers	
+365	Coprocholic acid	Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Investigational	Chemical Biomarkers	
+366	Coproporphyrin I	Porphyria	Germ-Line Disorder,Skin Disorder,Metabolic Disorder,Digestive System Disorder	Porphyria	Investigational	Chemical Biomarkers	柯布卟啉I
+367	Coproporphyrin I	Liver Disease	Others	Liver Disease	Investigational	Chemical Biomarkers	柯布卟啉I
+368	Coproporphyrin III	Liver Disease	Others	Liver Disease	Investigational	Chemical Biomarkers	柯布卟啉III
+369	Coproporphyrin III	Porphyria	Germ-Line Disorder,Skin Disorder,Metabolic Disorder,Digestive System Disorder	Porphyria	Investigational	Chemical Biomarkers	柯布卟啉III
+370	Coproporphyrinogen I	Porphyria	Germ-Line Disorder,Skin Disorder,Metabolic Disorder,Digestive System Disorder	Porphyria	Investigational	Chemical Biomarkers	嗜卟啉原I
+371	Cortexolone	11 Beta Hydroxylase Deficiency	Germ-Line Disorder,Female Reproductive System Disorder,Endocrine System Disorder	11 Beta Hydroxylase Deficiency	Clinical	Chemical Biomarkers	皮质醇酮
+372	Cortisol	Stress	Mental or Behavioural Disorder	Stress	Clinical	Chemical Biomarkers	皮质醇
+373	Cortisol	Apparent Mineralocorticoid Excess	Metabolic Disorder	Apparent Mineralocorticoid Excess	Clinical	Chemical Biomarkers	皮质醇
+374	Cortisol	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Musculoskeletal System Disorder	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Clinical	Chemical Biomarkers	皮质醇
+375	Cortisol	Benign Gynecological Diseases	Female Reproductive System Disorder	Benign Gynecological Diseases	Clinical	Chemical Biomarkers	皮质醇
+376	Cortisol	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Clinical	Chemical Biomarkers	皮质醇
+377	Cortisol	Aromatase Deficiency	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Aromatase Deficiency	Clinical	Chemical Biomarkers	皮质醇
+378	Cortisol	Antenatal Bartter Syndrome Type II	Metabolic Disorder	Antenatal Bartter Syndrome Type II	Clinical	Chemical Biomarkers	皮质醇
+379	Cortisol	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Clinical	Chemical Biomarkers	皮质醇
+380	Cortisol	Glucocorticoid Resistance	Endocrine System Disorder	Glucocorticoid Resistance	Clinical	Chemical Biomarkers	皮质醇
+381	Cortisol	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	皮质醇
+382	Cortisol	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Clinical	Chemical Biomarkers	皮质醇
+383	Cortisol	Corticosterone Methyloxidase Type I Deficiency	Germ-Line Disorder,Metabolic Disorder,Endocrine System Disorder	Corticosterone Methyloxidase Type I Deficiency	Clinical	Chemical Biomarkers	皮质醇
+384	Cortisol	Congenital Adrenal Hyperplaia due to 17-alpha-Hydroxylase Deficiency	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder,Endocrine System Disorder	Congenital Adrenal Hyperplaia due to 17-alpha-Hydroxylase Deficiency	Clinical	Chemical Biomarkers	皮质醇
+385	Cortisone	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	
+386	Cortisone	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	
+387	Creatine	Rhabdomyolysis	Others,Musculoskeletal System Disorder	Rhabdomyolysis	Investigational	Chemical Biomarkers	肌酸
+388	Creatine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	肌酸
+389	Creatine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	肌酸
+390	Creatinine	Type I Autosonal Dominant Pseudohyopoaldosteronism	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder	Type I Autosonal Dominant Pseudohyopoaldosteronism	Clinical	Chemical Biomarkers	肌酐
+391	Creatinine	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	肌酐
+392	Creatinine	21 Hydroxylase Deficiency	Nervous System Disorder,Endocrine System Disorder	21 Hydroxylase Deficiency	Clinical	Chemical Biomarkers	肌酐
+393	Creatinine	Type 4A Bartter Syndrome	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Otorhinolaryngologic Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder,Urinary System Disorder	Type 4A Bartter Syndrome	Clinical	Chemical Biomarkers	肌酐
+394	Creatinine	Lesch Nyhan Syndrome	Germ-Line Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Lesch Nyhan Syndrome	Clinical	Chemical Biomarkers	肌酐
+395	Creatinine	Brown Vialetto Van Laere Syndrome	Germ-Line Disorder,Otorhinolaryngologic Disorder,Nervous System Disorder	Brown Vialetto Van Laere Syndrome	Clinical	Chemical Biomarkers	肌酐
+396	Creatinine	Antenatal Bartter Syndrome Type II	Metabolic Disorder	Antenatal Bartter Syndrome Type II	Clinical	Chemical Biomarkers	肌酐
+397	Creatinine	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Clinical	Chemical Biomarkers	肌酐
+398	Cysteine-S-sulfate	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	半胱氨酸-S-硫酸盐
+399	Cytidine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	胞苷
+400	Cytidine monophosphate	Dementia	Nervous System Disorder,Mental or Behavioural Disorder	Dementia	Investigational	Chemical Biomarkers	
+401	Cytidine monophosphate	Lewy Body Dementia	Nervous System Disorder,Mental or Behavioural Disorder	Dementia	Investigational	Chemical Biomarkers	
+402	D-2-Hydroxyglutaric acid	D 2 Hydroxyglutaric Aciduria	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	D 2 Hydroxyglutaric Aciduria	Clinical	Chemical Biomarkers	D-2-羟基戊二酸
+403	D-Glucose	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	D-葡萄糖
+404	D-Glucose	21 Hydroxylase Deficiency	Nervous System Disorder,Endocrine System Disorder	21 Hydroxylase Deficiency	Clinical	Chemical Biomarkers	D-葡萄糖
+405	D-Glucose	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	D-葡萄糖
+406	D-Glucose	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Investigational	Chemical Biomarkers	D-葡萄糖
+407	D-Glucose	Fanconi Syndrome	Urinary System Disorder	Fanconi Syndrome	Investigational	Chemical Biomarkers	D-葡萄糖
+408	D-Glutamic acid	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	D-谷氨酸
+409	D-Glutamic acid	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	D-谷氨酸
+410	D-Pipecolic acid	Hepatic Encephalopathy	Others,Nervous System Disorder,Digestive System Disorder	Hepatic Encephalopathy	Investigational	Chemical Biomarkers	D-哌啶醇酸
+411	D-Ribose	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	D-核糖
+412	D-Ribulose 5-phosphate	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	D-核酮糖5-磷酸
+413	D-Serine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	D-丝氨酸
+414	D-Xylose	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Clinical	Chemical Biomarkers	D-木糖
+415	D-Xylose	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Clinical	Chemical Biomarkers	D-木糖
+416	D-Xylose	Small Bowel Bacterial Overgrowth Syndrome	Lower Gastrointestinal Disorder	Small Bowel Bacterial Overgrowth Syndrome	Clinical	Chemical Biomarkers	D-木糖
+417	DHEA sulfate	11 Beta Hydroxylase Deficiency	Germ-Line Disorder,Female Reproductive System Disorder,Endocrine System Disorder	11 Beta Hydroxylase Deficiency	Clinical	Chemical Biomarkers	DHEA硫酸盐
+418	DHEA sulfate	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	DHEA硫酸盐
+419	DHEA sulfate	Polycystic Ovary Syndrome	Female Reproductive System Disorder,Endocrine System Disorder	Polycystic Ovary Syndrome	Investigational	Chemical Biomarkers	DHEA硫酸盐
+420	DHEA sulfate	X-Linked Ichthyosis	Germ-Line Disorder,Skin Disorder,Metabolic Disorder	X-Linked Ichthyosis	Investigational	Chemical Biomarkers	DHEA硫酸盐
+421	Decanoylcarnitine	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	癸酰肉碱
+422	Dehydroepiandrosterone	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Musculoskeletal System Disorder	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Investigational	Chemical Biomarkers	去氢表雄酮
+423	Dehydroepiandrosterone	21 Hydroxylase Deficiency	Nervous System Disorder,Endocrine System Disorder	21 Hydroxylase Deficiency	Clinical	Chemical Biomarkers	去氢表雄酮
+424	Deoxyadenosine	Adenosine Deaminase Deficiency	Immune System Disorder	Adenosine Deaminase Deficiency	Clinical	Chemical Biomarkers	脫氧腺苷
+425	Deoxyadenosine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	脫氧腺苷
+426	Deoxyadenosine	Adenylosuccinate Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Adenylosuccinate Lyase Deficiency	Clinical	Chemical Biomarkers	脫氧腺苷
+427	Deoxyadenosine triphosphate	Adenosine Deaminase Deficiency	Immune System Disorder	Adenosine Deaminase Deficiency	Clinical	Chemical Biomarkers	
+428	Deoxycorticosterone	Congenital Adrenal Hyperplaia due to 17-alpha-Hydroxylase Deficiency	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder,Endocrine System Disorder	Congenital Adrenal Hyperplaia due to 17-alpha-Hydroxylase Deficiency	Clinical	Chemical Biomarkers	脱氧皮质酮
+429	Deoxyguanosine	Purine Nucleoside Phosphorylase Deficiency	Immune System Disorder,Germ-Line Disorder,Metabolic Disorder	Purine Nucleoside Phosphorylase Deficiency	Clinical	Chemical Biomarkers	脱氧鸟苷
+430	Deoxyinosine	Purine Nucleoside Phosphorylase Deficiency	Immune System Disorder,Germ-Line Disorder,Metabolic Disorder	Purine Nucleoside Phosphorylase Deficiency	Clinical	Chemical Biomarkers	脱氧肌苷
+431	Deoxyinosine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	脱氧肌苷
+432	Deoxypyridinoline	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	脱氧吡啶啉
+433	Deoxyuridine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	脱氧尿苷
+434	Des-gamma-carboxy prothrombin	Hepatocellular Carcinoma	Cancer,Digestive System Disorder	Hepatocellular Carcinoma	Investigational	Protein Biomarkers	去γ-羧基凝血酶原
+435	Desmosterol	Desmosterolosis	Germ-Line Disorder,Musculoskeletal System Disorder,Metabolic Disorder	Desmosterolosis	Investigational	Chemical Biomarkers	去氢胆甾醇
+436	Diacetyl	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+437	Digoxin	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	地高辛
+438	Dihydrothymine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	二氢胸腺嘧啶
+439	Dihydrothymine	Beta Ureidopropionase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Beta Ureidopropionase Deficiency	Clinical	Chemical Biomarkers	二氢胸腺嘧啶
+440	Dihydroxyacetone phosphate	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	
+441	Dimethylamine	Rhabdomyolysis	Others,Musculoskeletal System Disorder	Rhabdomyolysis	Investigational	Chemical Biomarkers	二甲胺
+442	Dimethylglycine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	二甲基甘氨酸
+443	Docosahexaenoic acid	Stroke	Cardiovascular System Disorder	Stroke	Investigational	Chemical Biomarkers	二十二碳六烯酸
+444	Dodecanoylcarnitine	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	十二烷酰肉碱
+445	Dopamine	Congenital Dopamine Beta-Hydroxylase Deficiency	Germ-Line Disorder,Endocrine System Disorder	Congenital Dopamine Beta-Hydroxylase Deficiency	Clinical	Chemical Biomarkers	多巴胺
+446	Dopamine	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	多巴胺
+447	Dopamine	Encephalitis	Nervous System Disorder	Encephalitis	Clinical	Chemical Biomarkers	多巴胺
+448	Dopamine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	多巴胺
+449	Dopamine	Vitiligo	Skin Disorder	Vitiligo	Clinical	Chemical Biomarkers	多巴胺
+450	Dopamine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	多巴胺
+451	Eicosapentaenoic acid	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	二十碳五烯酸
+452	Enkephalin L	Acute Liver Disease	Others,Digestive System Disorder	Acute Liver Disease	Investigational	Chemical Biomarkers	脑啡肽L
+453	Epinephrine	Addison's Disease	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Nervous System Disorder,Endocrine System Disorder,Urinary System Disorder	Addison's Disease	Clinical	Chemical Biomarkers	肾上腺激素
+454	Erythropoietin	Chronic Kidney Disease	Urinary System Disorder	Chronic Kidney Disease	Investigational	Protein Biomarkers	红细胞生成素
+455	Erythropoietin	Dyserythropoietic Congenital Anemia Type II	Hematological or Lymphatic System Disorder	Anemia	Investigational	Protein Biomarkers	红细胞生成素
+456	Erythropoietin	Anemia	Hematological or Lymphatic System Disorder	Anemia	Investigational	Protein Biomarkers	红细胞生成素
+457	Erythropoietin	Polycythemia	Hematological or Lymphatic System Disorder	Polycythemia	Investigational	Protein Biomarkers	红细胞生成素
+458	Erythropoietin	Polycythemia Vera	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Polycythemia Vera	Investigational	Protein Biomarkers	红细胞生成素
+459	Estradiol	X-Linked Ichthyosis	Germ-Line Disorder,Skin Disorder,Metabolic Disorder	X-Linked Ichthyosis	Clinical	Chemical Biomarkers	雌二醇
+460	Estrogen receptor	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	雌激素受体
+461	Estrogen receptor	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	雌激素受体
+462	Estrone	X-Linked Ichthyosis	Germ-Line Disorder,Skin Disorder,Metabolic Disorder	X-Linked Ichthyosis	Clinical	Chemical Biomarkers	
+463	Estrone	Menstrual Cycle	Others	Menstrual Cycle	Clinical	Chemical Biomarkers	
+464	Estrone sulfate	X-Linked Ichthyosis	Germ-Line Disorder,Skin Disorder,Metabolic Disorder	X-Linked Ichthyosis	Investigational	Chemical Biomarkers	硫酸雌酮
+465	Ethanol	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Clinical	Chemical Biomarkers	3. 乙醇
+466	Ethanolamine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	乙醇胺
+467	Ethyl butyrate	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	
+468	Ethyl butyrate	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	
+469	Ethyl propionate	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	
+470	Ethyl propionate	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	
+471	Ethylamine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	
+472	Ethylmalonic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	乙基丙二酸
+473	Ethylmalonic acid	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	乙基丙二酸
+474	Ferritin	Iron Deficiency	Hematological or Lymphatic System Disorder	Iron Deficiency	Investigational	Protein Biomarkers	铁蛋白数值
+475	Folic acid	Hereditary Folate Malabsorption	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Digestive System Disorder	Hereditary Folate Malabsorption	Investigational	Chemical Biomarkers	叶酸
+476	Follicle stimulating hormone	Polycystic Ovary Syndrome	Female Reproductive System Disorder,Endocrine System Disorder	Polycystic Ovary Syndrome	Investigational	Protein Biomarkers	卵泡生成素
+477	Follicle stimulating hormone	Infertility	Male Reproductive System Disorder,Female Reproductive System Disorder	Infertility	Investigational	Protein Biomarkers	卵泡生成素
+478	Formic acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Chemical Biomarkers	甲酸
+479	Formic acid	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	甲酸
+480	Fructosamine	11 Beta Hydroxylase Deficiency	Germ-Line Disorder,Female Reproductive System Disorder,Endocrine System Disorder	11 Beta Hydroxylase Deficiency	Clinical	Chemical Biomarkers	果糖胺
+481	Fructosamine	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Clinical	Chemical Biomarkers	果糖胺
+482	Fumaric acid	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	反丁烯二酸
+483	Fumaric acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Clinical	Chemical Biomarkers	反丁烯二酸
+484	Gama-Tocopherol	Prostate Cancer	Cancer,Germ-Line Disorder,Male Reproductive System Disorder,Nervous System Disorder	Prostate Cancer	Investigational	Chemical Biomarkers	Y-生育酚
+485	Gama-Tocopherol	Endometrial Cancer	Cancer,Female Reproductive System Disorder	Endometrial Cancer	Investigational	Chemical Biomarkers	Y-生育酚
+486	Gamma-Aminobutyric acid	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	Y-氨基丁酸
+487	Gamma-Aminobutyric acid	Hepatic Encephalopathy	Others,Nervous System Disorder,Digestive System Disorder	Hepatic Encephalopathy	Investigational	Chemical Biomarkers	Y-氨基丁酸
+488	Gamma-Aminobutyric acid	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	Y-氨基丁酸
+489	Gamma-Aminobutyric acid	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	Y-氨基丁酸
+490	Gamma-glutamyltranspeptidase	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	Γ-谷氨酰转肽酶
+491	Gammaglutamyl transferase	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	
+492	Gastrin	Enterochromaffin Like Cell Hyperplasia	Endocrine System Disorder,Digestive System Disorder	Enterochromaffin Like Cell Hyperplasia	Investigational	Protein Biomarkers	胃泌素
+493	Glucose 6-phosphate	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	
+494	Glucose-6-phosphate 1-dehydrogenase	Glucose 6 Phosphate Dehydrogenase Deficiency	Hematological or Lymphatic System Disorder	Glucose 6 Phosphate Dehydrogenase Deficiency	Investigational	Protein Biomarkers	6-磷酸葡糖脱氢酶
+495	Glutathione	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	谷胱甘肽
+496	Glutathione	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	谷胱甘肽
+497	Glycerol	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	甘油
+498	Glycerol	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Chemical Biomarkers	甘油
+499	Glycerol 3-phosphate	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	甘油3-磷酸酯
+500	Glycerophosphocholine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	甘油磷胆碱
+501	Glycine	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Clinical	Chemical Biomarkers	甘氨酸
+502	Glycine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Clinical	Chemical Biomarkers	甘氨酸
+503	Glycine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	甘氨酸
+504	Glycine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Clinical	Chemical Biomarkers	甘氨酸
+505	Glycine	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	甘氨酸
+506	Glycine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	甘氨酸
+507	Glycine	Epilepsy	Nervous System Disorder	Epilepsy	Clinical	Chemical Biomarkers	甘氨酸
+508	Glycocholic acid	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	甘胆酸
+509	Glycocholic acid	Alpha 1 Antitrypsin Deficiency	Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Respiratory System Disorder,Urinary System Disorder	Alpha 1 Antitrypsin Deficiency	Clinical	Chemical Biomarkers	甘胆酸
+510	Glycocholic acid	Hepatobiliary Diseases	Digestive System Disorder	Hepatobiliary Diseases	Investigational	Chemical Biomarkers	甘胆酸
+511	Glycocholic acid	Intrahepatic Biliary Hypoplasia	Others,Digestive System Disorder	Intrahepatic Biliary Hypoplasia	Investigational	Chemical Biomarkers	甘胆酸
+512	Glycocholic acid	Chronic Active Hepatitis	Others	Chronic Active Hepatitis	Investigational	Chemical Biomarkers	甘胆酸
+513	Glycolic acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Clinical	Chemical Biomarkers	乙醇酸
+514	Glycolic acid	Hemodialysis	Others	Hemodialysis	Clinical	Chemical Biomarkers	乙醇酸
+515	Glycolic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	乙醇酸
+516	Glycolic acid	D 2 Hydroxyglutaric Aciduria	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	D 2 Hydroxyglutaric Aciduria	Clinical	Chemical Biomarkers	乙醇酸
+517	Glycylproline	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	甘油脯氨酸
+518	Glycylproline	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	甘油脯氨酸
+519	Guanidine	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	胍
+520	Guanidine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	胍
+521	Guanidinosuccinic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	胍基琥珀酸
+522	Guanidinosuccinic acid	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	胍基琥珀酸
+523	Guanidoacetic acid	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	胍乙酸
+524	Guanine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	鸟嘌呤
+525	Guanosine	Purine Nucleoside Phosphorylase Deficiency	Immune System Disorder,Germ-Line Disorder,Metabolic Disorder	Purine Nucleoside Phosphorylase Deficiency	Clinical	Chemical Biomarkers	鸟苷
+526	Guanosine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	鸟苷
+527	Guanosine diphosphate	Subarachnoid Hemorrhage	Hematological or Lymphatic System Disorder,Nervous System Disorder	Subarachnoid Hemorrhage	Investigational	Chemical Biomarkers	鸟苷二磷酸
+528	HER2	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	HER2
+529	HER2	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	HER2
+530	Haptoglobin	Hemolytic anemia	Hematological or Lymphatic System Disorder	Hemolytic anemia	Investigational	Protein Biomarkers	结合红蛋白
+531	Haptoglobin	Dyserythropoietic Congenital Anemia Type II	Hematological or Lymphatic System Disorder	Anemia	Investigational	Protein Biomarkers	结合红蛋白
+532	Haptoglobin	Anemia	Hematological or Lymphatic System Disorder	Anemia	Investigational	Protein Biomarkers	结合红蛋白
+533	Hemoglobin	Anemia	Hematological or Lymphatic System Disorder	Anemia	Investigational	Protein Biomarkers	血红蛋白
+534	Hemoglobin	Dyserythropoietic Congenital Anemia Type II	Hematological or Lymphatic System Disorder	Anemia	Investigational	Protein Biomarkers	血红蛋白
+535	Hemoglobin S	Sickle Cell Anemia	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Sickle Cell Anemia	Investigational	Protein Biomarkers	血红蛋白S
+536	Heptanal	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+537	Hexacosanoic acid	Adrenoleukodystrophy	Germ-Line Disorder,Metabolic Disorder,Endocrine System Disorder	Adrenoleukodystrophy	Investigational	Chemical Biomarkers	二十六酸
+538	Hexacosanoic acid	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Investigational	Chemical Biomarkers	二十六酸
+539	Hexacosanoic acid	Adrenomyeloneuropathy	Germ-Line Disorder,Male Reproductive System Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	Adrenomyeloneuropathy	Investigational	Chemical Biomarkers	二十六酸
+540	Hexacosanoic acid	Rhizomelic Chondrodysplasia Punctata	Germ-Line Disorder,Musculoskeletal System Disorder	Rhizomelic Chondrodysplasia Punctata	Investigational	Chemical Biomarkers	二十六酸
+541	Hexanal	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	己醛
+542	Hippuric acid	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	马尿酸
+543	Hippuric acid	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	马尿酸
+544	Histamine	Nephrotic Syndrome	Others,Urinary System Disorder	Nephrotic Syndrome	Clinical	Chemical Biomarkers	组胺
+545	Histamine	Hemodialysis	Others	Hemodialysis	Clinical	Chemical Biomarkers	组胺
+546	Homo-L-arginine	Argininemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	Argininemia	Investigational	Chemical Biomarkers	精氨酸
+547	Homocitrulline	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	
+548	Homocysteine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	高半胱氨酸
+549	Homocysteine	Amyotrophic Lateral Sclerosis	Nervous System Disorder	Amyotrophic Lateral Sclerosis	Investigational	Chemical Biomarkers	高半胱氨酸
+550	Homocysteine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	高半胱氨酸
+551	Homocysteine	Sickle Cell Anemia	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Sickle Cell Anemia	Investigational	Chemical Biomarkers	高半胱氨酸
+552	Homocysteine	Hemodialysis	Others	Hemodialysis	Investigational	Chemical Biomarkers	高半胱氨酸
+553	Homogentisic acid	Alkaptonuria	Visual System Disorder,Germ-Line Disorder,Skin Disorder,Metabolic Disorder	Alkaptonuria	Clinical	Chemical Biomarkers	Homogentisic acid
+554	Homovanillic acid	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Clinical	Chemical Biomarkers	高香草酸
+555	Homovanillic acid	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	高香草酸
+556	Homovanillic acid	Brunner Syndrome	Germ-Line Disorder,Nervous System Disorder	Brunner Syndrome	Clinical	Chemical Biomarkers	高香草酸
+557	Homovanillic acid	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Clinical	Chemical Biomarkers	高香草酸
+558	Homovanillic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	高香草酸
+559	Human Chorionic Gonadotropin	Hepatocellular Carcinoma	Cancer,Digestive System Disorder	Hepatocellular Carcinoma	Investigational	Protein Biomarkers	人绒毛膜促性腺激素
+560	Human Epididymis protein 4	Type 1 Epithilial Ovarian Cancer	Cancer,Female Reproductive System Disorder	Type 1 Epithilial Ovarian Cancer	Investigational	Protein Biomarkers	人附睾蛋白
+561	Human Epididymis protein 4	Type 2 Epithilial Ovarian Cancer	Cancer,Female Reproductive System Disorder	Type 2 Epithilial Ovarian Cancer	Investigational	Protein Biomarkers	人附睾蛋白
+562	Human growth hormone	Acromegaly	Musculoskeletal System Disorder	Acromegaly	Investigational	Protein Biomarkers	人生长激素
+563	Human growth hormone	Growth Hormone Deficiency	Endocrine System Disorder	Growth Hormone Deficiency	Investigational	Protein Biomarkers	人生长激素
+564	Hyaluronic acid	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	透明质酸
+565	Hyaluronic acid	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	透明质酸
+566	Hydrocinnamic acid	Prostate Cancer	Cancer,Germ-Line Disorder,Male Reproductive System Disorder,Nervous System Disorder	Prostate Cancer	Investigational	Chemical Biomarkers	氢桂皮酸
+567	Hydrogen carbonate	Fanconi Syndrome	Urinary System Disorder	Fanconi Syndrome	Investigational	Chemical Biomarkers	碳酸氢盐
+568	Hydrogen carbonate	Type I Autosonal Dominant Pseudohyopoaldosteronism	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder	Type I Autosonal Dominant Pseudohyopoaldosteronism	Investigational	Chemical Biomarkers	碳酸氢盐
+569	Hydrogen carbonate	21 Hydroxylase Deficiency	Nervous System Disorder,Endocrine System Disorder	21 Hydroxylase Deficiency	Clinical	Chemical Biomarkers	碳酸氢盐
+570	Hydrogen peroxide	Coronary Heart Disease	Others,Cardiovascular System Disorder	Coronary Heart Disease	Investigational	Chemical Biomarkers	过氧化氢
+571	Hydroxyphenyllactic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	
+572	Hydroxyproline	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	羟脯氨酸
+573	Hydroxyproline	Hemodialysis	Others	Hemodialysis	Clinical	Chemical Biomarkers	羟脯氨酸
+574	Hydroxyproline	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	羟脯氨酸
+575	Hypoxanthine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	次黄嘌呤
+576	Hypoxanthine	Lesch Nyhan Syndrome	Germ-Line Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Lesch Nyhan Syndrome	Clinical	Chemical Biomarkers	次黄嘌呤
+577	Hypoxanthine	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	次黄嘌呤
+578	IgA	Immunoglobulin A Deficiency	Immune System Disorder	Immunoglobulin A Deficiency	Investigational	Protein Biomarkers	IgA
+579	IgA	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Protein Biomarkers	IgA
+580	IgA	Autoimmune Disease	Immune System Disorder,Germ-Line Disorder,Hematological or Lymphatic System Disorder,Skin Disorder,Nervous System Disorder,Endocrine System Disorder	Autoimmune Disease	Investigational	Protein Biomarkers	IgA
+581	IgE	Allergic Disease	Immune System Disorder	Allergic Disease	Investigational	Protein Biomarkers	IgE
+582	IgG	Autoimmune Disease	Immune System Disorder,Germ-Line Disorder,Hematological or Lymphatic System Disorder,Skin Disorder,Nervous System Disorder,Endocrine System Disorder	Autoimmune Disease	Investigational	Protein Biomarkers	IgG
+583	IgG	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Protein Biomarkers	IgG
+584	IgM	Autoimmune Disease	Immune System Disorder,Germ-Line Disorder,Hematological or Lymphatic System Disorder,Skin Disorder,Nervous System Disorder,Endocrine System Disorder	Autoimmune Disease	Investigational	Protein Biomarkers	IgM
+585	IgM	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Protein Biomarkers	IgM
+586	IgM	Non-specific Inflammation	Immune System Disorder	Non-specific Inflammation	Investigational	Protein Biomarkers	IgM
+587	Indole	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	
+588	Indole	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	
+589	Indoleacetic acid	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	吲哚乙酸
+590	Indoleacetic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	吲哚乙酸
+591	Indoxyl sulfate	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	硫酸吲哚氧基酯
+592	Inosine	Purine Nucleoside Phosphorylase Deficiency	Immune System Disorder,Germ-Line Disorder,Metabolic Disorder	Purine Nucleoside Phosphorylase Deficiency	Clinical	Chemical Biomarkers	肌苷
+593	Insulin-like growth factor 1	Sarcopenia	Musculoskeletal System Disorder	Sarcopenia	Investigational	Protein Biomarkers	胰岛素样生长因子-1
+594	Interferon gamma	Tuberculosis	Bacterial Infection	Tuberculosis	Investigational	Protein Biomarkers	干扰素γ
+595	Interleukin-6	Sarcopenia	Musculoskeletal System Disorder	Sarcopenia	Investigational	Protein Biomarkers	白细胞介素-6
+596	Interleukin-6	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Protein Biomarkers	白细胞介素-6
+597	Interleukin-6	Myocardial Infarction	Others,Cardiovascular System Disorder	Myocardial Infarction	Investigational	Protein Biomarkers	白细胞介素-6
+598	Iron	Iron Deficiency	Hematological or Lymphatic System Disorder	Iron Deficiency	Clinical	Chemical Biomarkers	铁
+599	Iron	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	铁
+600	Iso-Valeraldehyde	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	异戊醛
+601	Iso-Valeraldehyde	Hepatic Encephalopathy	Others,Nervous System Disorder,Digestive System Disorder	Hepatic Encephalopathy	Investigational	Chemical Biomarkers	异戊醛
+602	Isobutyric acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Chemical Biomarkers	异丁酸
+603	Isobutyric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	异丁酸
+604	Isocaproic acid	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+605	Isocitric acid	Anoxia	Others	Anoxia	Investigational	Chemical Biomarkers	异柠檬酸
+606	Isocitric acid	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	异柠檬酸
+607	Isopropyl alcohol	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	异丙醇
+608	Isovaleric acid	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Clinical	Chemical Biomarkers	3-甲基丁酸
+609	Isovaleric acid	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Clinical	Chemical Biomarkers	3-甲基丁酸
+610	Isovaleric acid	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Clinical	Chemical Biomarkers	3-甲基丁酸
+611	Isovalerylcarnitine	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	异戊酰肉碱
+612	Isovalerylglycine	2 Methylbutyryl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	2 Methylbutyryl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	异戊酰甘氨酸
+613	Kappa/Lambda light chains	Amyloidosis	Germ-Line Disorder,Skin Disorder,Metabolic Disorder	Amyloidosis	Investigational	Protein Biomarkers	Kappa/Lambda轻链
+614	Ketoleucine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	酮亮氨酸
+615	Kynurenic acid	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	犬尿酸
+616	Kynurenic acid	Malaria	Parasitic Infection	Malaria	Investigational	Chemical Biomarkers	犬尿酸
+617	L-2-Hydroxyglutaric acid	D 2 Hydroxyglutaric Aciduria	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	D 2 Hydroxyglutaric Aciduria	Clinical	Chemical Biomarkers	L-2-羟基戊二酸
+618	L-2-Hydroxyglutaric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-2-羟基戊二酸
+619	L-Acetylcarnitine	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	L-乙酰肉碱
+620	L-Acetylcarnitine	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	L-乙酰肉碱
+621	L-Alanine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+622	L-Alanine	Pearson Marrow Pancreas Syndrome	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Pearson Marrow Pancreas Syndrome	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+623	L-Alanine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+624	L-Alanine	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+625	L-Alanine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+626	L-Alanine	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+627	L-Alanine	Amish Type Microcephaly	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder	Amish Type Microcephaly	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+628	L-Alanine	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+629	L-Alanine	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	L- 丙胺酸Name
+630	L-Alloisoleucine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-异亮氨酸
+631	L-Arabitol	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	L-阿糖醇
+632	L-Arginine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精氨酸
+633	L-Arginine	Argininosuccinic Aciduria	Germ-Line Disorder,Metabolic Disorder	Argininosuccinic Aciduria	Clinical	Chemical Biomarkers	精氨酸
+634	L-Arginine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精氨酸
+635	L-Arginine	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	精氨酸
+636	L-Arginine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精氨酸
+637	L-Arginine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	精氨酸
+638	L-Arginine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	精氨酸
+639	L-Arginine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精氨酸
+640	L-Arginine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精氨酸
+641	L-Arginine	Argininemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	Argininemia	Investigational	Chemical Biomarkers	精氨酸
+642	L-Arginine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精氨酸
+643	L-Arginine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	精氨酸
+644	L-Arginine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精氨酸
+645	L-Asparagine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+646	L-Asparagine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+647	L-Asparagine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+648	L-Asparagine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+649	L-Asparagine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+650	L-Asparagine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+651	L-Asparagine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+652	L-Asparagine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L- 天冬酰胺Name
+653	L-Aspartic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	L-天冬氨酸
+654	L-Aspartic acid	Growth Hormone Deficiency	Endocrine System Disorder	Growth Hormone Deficiency	Clinical	Chemical Biomarkers	L-天冬氨酸
+655	L-Aspartic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-天冬氨酸
+656	L-Carnitine	Oculocerebrorenal Syndrome	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Urinary System Disorder	Oculocerebrorenal Syndrome	Investigational	Chemical Biomarkers	肉碱
+657	L-Carnitine	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	肉碱
+658	L-Carnitine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	肉碱
+659	L-Cystathionine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-胱硫醚
+660	L-Cysteine	A.I.D.S.	Immune System Disorder,Viral Infection	A.I.D.S.	Investigational	Chemical Biomarkers	L-半胱氨酸
+661	L-Cysteine	Stroke	Cardiovascular System Disorder	Stroke	Investigational	Chemical Biomarkers	L-半胱氨酸
+662	L-Cysteine	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	L-半胱氨酸
+663	L-Cysteine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	L-半胱氨酸
+664	L-Cystine	Acute Seizures	Nervous System Disorder	Acute Seizures	Investigational	Chemical Biomarkers	"L<g id=""846"">- 胱氨酸</g>"
+665	L-Cystine	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	"L<g id=""846"">- 胱氨酸</g>"
+666	L-Cystine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	"L<g id=""846"">- 胱氨酸</g>"
+667	L-Cystine	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	"L<g id=""846"">- 胱氨酸</g>"
+668	L-Dopa	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-多巴
+669	L-Glutamic acid	Anoxia	Others	Anoxia	Investigational	Chemical Biomarkers	L-谷氨酸
+670	L-Glutamic acid	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酸
+671	L-Glutamic acid	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酸
+672	L-Glutamic acid	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	L-谷氨酸
+673	L-Glutamic acid	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酸
+674	L-Glutamic acid	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酸
+675	L-Glutamic acid	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酸
+676	L-Glutamic acid	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酸
+677	L-Glutamic acid	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	L-谷氨酸
+678	L-Glutamic acid	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酸
+679	L-Glutamic acid	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	L-谷氨酸
+680	L-Glutamic acid	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	L-谷氨酸
+681	L-Glutamine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酰胺
+682	L-Glutamine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酰胺
+683	L-Glutamine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酰胺
+684	L-Glutamine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-谷氨酰胺
+685	L-Glutamine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酰胺
+686	L-Glutamine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酰胺
+687	L-Glutamine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酰胺
+688	L-Glutamine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-谷氨酰胺
+689	L-Glutamine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-谷氨酰胺
+690	L-Histidine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	組氨酸
+691	L-Histidine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	組氨酸
+692	L-Histidine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	組氨酸
+693	L-Histidine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	組氨酸
+694	L-Histidine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	組氨酸
+695	L-Histidine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	組氨酸
+696	L-Histidine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	組氨酸
+697	L-Histidine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	組氨酸
+698	L-Histidine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	組氨酸
+699	L-Histidine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	組氨酸
+700	L-Homocystine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-高胱氨酸
+701	L-Homocystine	Homocystinuria	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Mental or Behavioural Disorder	Homocystinuria	Investigational	Chemical Biomarkers	L-高胱氨酸
+702	L-Homoserine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-高丝氨酸
+703	L-Isoleucine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-异亮氨酸
+704	L-Isoleucine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	L-异亮氨酸
+705	L-Isoleucine	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	L-异亮氨酸
+706	L-Kynurenine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	
+707	L-Kynurenine	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	
+708	L-Lactic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	L-乳酸
+709	L-Lactic acid	Coenzyme Q10 Deficiency	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Coenzyme Q10 Deficiency	Clinical	Chemical Biomarkers	L-乳酸
+710	L-Lactic acid	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	L-乳酸
+711	L-Lactic acid	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Clinical	Chemical Biomarkers	L-乳酸
+712	L-Lactic acid	Amish Type Microcephaly	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder	Amish Type Microcephaly	Clinical	Chemical Biomarkers	L-乳酸
+713	L-Lactic acid	Epilepsy	Nervous System Disorder	Epilepsy	Clinical	Chemical Biomarkers	L-乳酸
+714	L-Lactic acid	MLASA	Germ-Line Disorder,Hematological or Lymphatic System Disorder,Musculoskeletal System Disorder,Metabolic Disorder	MLASA	Clinical	Chemical Biomarkers	L-乳酸
+715	L-Lactic acid	Pearson Marrow Pancreas Syndrome	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Pearson Marrow Pancreas Syndrome	Clinical	Chemical Biomarkers	L-乳酸
+716	L-Lactic acid	Type V 3-Methylglutaconic Aciduria	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	Type V 3-Methylglutaconic Aciduria	Clinical	Chemical Biomarkers	L-乳酸
+717	L-Lactic acid	Acute Infantile Liver Failure	Germ-Line Disorder,Digestive System Disorder	Acute Infantile Liver Failure	Clinical	Chemical Biomarkers	L-乳酸
+718	L-Lactic acid	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Clinical	Chemical Biomarkers	L-乳酸
+719	L-Lactic acid	Mitochondrial Phosphate Carrier Deficiency	Germ-Line Disorder,Nervous System Disorder,Cardiovascular System Disorder,Metabolic Disorder	Mitochondrial Phosphate Carrier Deficiency	Clinical	Chemical Biomarkers	L-乳酸
+720	L-Lactic acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Clinical	Chemical Biomarkers	L-乳酸
+721	L-Lactic acid	G.R.A.C.I.L.E. Syndrome	Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder	G.R.A.C.I.L.E. Syndrome	Clinical	Chemical Biomarkers	L-乳酸
+722	L-Lactic acid	Leber Optic Atrophy And Dystonia	Visual System Disorder,Germ-Line Disorder,Musculoskeletal System Disorder	Leber Optic Atrophy And Dystonia	Clinical	Chemical Biomarkers	L-乳酸
+723	L-Lactic acid	Hereditary Myopathy With Lactic Acidosis	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Metabolic Disorder	Hereditary Myopathy With Lactic Acidosis	Clinical	Chemical Biomarkers	L-乳酸
+724	L-Lactic acid	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Clinical	Chemical Biomarkers	L-乳酸
+725	L-Lactic acid	Leigh syndrome	Germ-Line Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Leigh syndrome	Clinical	Chemical Biomarkers	L-乳酸
+726	L-Lactic acid	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	3 Hydroxyacyl Co A Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	L-乳酸
+727	L-Leucine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-亮氨酸
+728	L-Leucine	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	L-亮氨酸
+729	L-Lysine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-赖氨酸
+730	L-Lysine	Classic Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Classic Citrullinemia	Investigational	Chemical Biomarkers	L-赖氨酸
+731	L-Lysine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	L-赖氨酸
+732	L-Lysine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	L-赖氨酸
+733	L-Malic acid	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-苹果酸
+734	L-Malic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-苹果酸
+735	L-Malic acid	Anoxia	Others	Anoxia	Investigational	Chemical Biomarkers	L-苹果酸
+736	L-Methionine	Classic Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Classic Citrullinemia	Investigational	Chemical Biomarkers	L-蛋氨酸
+737	L-Methionine	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	L-蛋氨酸
+738	L-Methionine	Homocystinuria	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Mental or Behavioural Disorder	Homocystinuria	Investigational	Chemical Biomarkers	L-蛋氨酸
+739	L-Octanoylcarnitine	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	L-辛酰肉碱
+740	L-Phenylalanine	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	L-苯丙氨酸
+741	L-Phenylalanine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	L-苯丙氨酸
+742	L-Phenylalanine	Myocardial Infarction	Others,Cardiovascular System Disorder	Myocardial Infarction	Investigational	Chemical Biomarkers	L-苯丙氨酸
+743	L-Phenylalanine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-苯丙氨酸
+744	L-Proline	Glutathione Synthetase Deficiency	Germ-Line Disorder,Hematological or Lymphatic System Disorder,Metabolic Disorder	Glutathione Synthetase Deficiency	Clinical	Chemical Biomarkers	脯氨酸
+745	L-Proline	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Investigational	Chemical Biomarkers	脯氨酸
+746	L-Serine	Phosphoglycerate Dehydrogenase Deficiency	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Metabolic Disorder	Phosphoglycerate Dehydrogenase Deficiency	Clinical	Chemical Biomarkers	L-丝氨酸
+747	L-Serine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	L-丝氨酸
+748	L-Serine	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	L-丝氨酸
+749	L-Serine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-丝氨酸
+750	L-Threonine	Classic Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Classic Citrullinemia	Investigational	Chemical Biomarkers	L-苏氨酸
+751	L-Threonine	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	L-苏氨酸
+752	L-Threonine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-苏氨酸
+753	L-Tryptophan	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-色氨酸
+754	L-Tryptophan	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-色氨酸
+755	L-Tryptophan	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-色氨酸
+756	L-Tryptophan	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-色氨酸
+757	L-Tryptophan	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-色氨酸
+758	L-Tryptophan	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	L-色氨酸
+759	L-Tryptophan	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-色氨酸
+760	L-Tryptophan	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-色氨酸
+761	L-Tryptophan	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	L-色氨酸
+762	L-Tryptophan	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	L-色氨酸
+763	L-Tyrosine	Classic Citrullinemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Classic Citrullinemia	Investigational	Chemical Biomarkers	L-酪氨酸
+764	L-Tyrosine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-酪氨酸
+765	L-Tyrosine	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	L-酪氨酸
+766	L-Valine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	L-缬氨酸
+767	L-Valine	Cachexia	Cancer	Cachexia	Investigational	Chemical Biomarkers	L-缬氨酸
+768	L-a-glutamyl-L-Lysine	Huntington's Disease	Germ-Line Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Huntington's Disease	Investigational	Chemical Biomarkers	
+769	Lactate dehydrogenase	Hepatocellular Carcinoma	Cancer,Digestive System Disorder	Hepatocellular Carcinoma	Investigational	Protein Biomarkers	乳酸脱氢酶
+770	Lactoferrin	Inflammatory Bowel Disease	Digestive System Disorder	Inflammatory Bowel Disease	Investigational	Protein Biomarkers	乳铁蛋白
+771	Lactotransferrin	Spontaneous Bacterial Peritonitis	Bacterial Infection	Spontaneous Bacterial Peritonitis	Investigational	Protein Biomarkers	乳转铁蛋白
+772	Lactotransferrin	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Protein Biomarkers	乳转铁蛋白
+773	Lactulose	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	乳果糖
+774	Lathosterol	Lathosterolosis	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Metabolic Disorder,Mental or Behavioural Disorder	Lathosterolosis	Investigational	Chemical Biomarkers	松香甾醇
+775	Lathosterol	Cerebrotendinous Xanthomatosis	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder,Mental or Behavioural Disorder	Cerebrotendinous Xanthomatosis	Investigational	Chemical Biomarkers	松香甾醇
+776	Lathosterol	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	松香甾醇
+777	Lauric aldehyde	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+778	Lead	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	铅
+779	Lead	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	铅
+780	Leukotriene B4	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	白三烯B4
+781	Leukotriene B4	Glutathione Synthetase Deficiency	Germ-Line Disorder,Hematological or Lymphatic System Disorder,Metabolic Disorder	Glutathione Synthetase Deficiency	Clinical	Chemical Biomarkers	白三烯B4
+782	Leukotriene C4	Glutathione Synthetase Deficiency	Germ-Line Disorder,Hematological or Lymphatic System Disorder,Metabolic Disorder	Glutathione Synthetase Deficiency	Clinical	Chemical Biomarkers	白三烯C4
+783	Leukotriene C4	A.I.D.S.	Immune System Disorder,Viral Infection	A.I.D.S.	Investigational	Chemical Biomarkers	白三烯C4
+784	Leukotriene C4	Eczema	Immune System Disorder,Skin Disorder	Eczema	Investigational	Chemical Biomarkers	白三烯C4
+785	Leukotriene E4	Eczema	Immune System Disorder,Skin Disorder	Eczema	Investigational	Chemical Biomarkers	白三烯E4
+786	Linoleic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	亚油酸
+787	Lipoprotein lipase	Acute Pancreatitis	Digestive System Disorder	Acute Pancreatitis	Investigational	Protein Biomarkers	脂蛋白脂酶
+788	Lipoxin A4	Coronary Artery Disease	Others,Cardiovascular System Disorder	Coronary Artery Disease	Investigational	Chemical Biomarkers	脂氧素A4
+789	Lithocholic acid	Cystic Fibrosis	Germ-Line Disorder,Male Reproductive System Disorder,Digestive System Disorder,Respiratory System Disorder	Cystic Fibrosis	Investigational	Chemical Biomarkers	岩胆酸
+790	Lithocholic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	岩胆酸
+791	Lycopene	Endometrial Cancer	Cancer,Female Reproductive System Disorder	Endometrial Cancer	Investigational	Chemical Biomarkers	茄红素
+792	LysoPC	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers	
+793	Macrophage colony-stimulating factor 1	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	巨噬细胞集落刺激因子
+794	Macrophage colony-stimulating factor 1	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	巨噬细胞集落刺激因子
+795	Magnesium	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	镁光
+796	Maleic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	马来酸
+797	Malondialdehyde	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	丙二醛
+798	Malondialdehyde	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	丙二醛
+799	Malondialdehyde	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	丙二醛
+800	Mandelic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	苦杏仁酸
+801	Manganese	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	锰
+802	Mannitol	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	甘露醇
+803	Melatonin	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	褪黑素
+804	Mercury	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	汞
+805	Mercury	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	汞
+806	Methanethiol	Liver Disease	Others	Liver Disease	Investigational	Chemical Biomarkers	甲基硫醇
+807	Methionine sulfoxide	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Chemical Biomarkers
+808	Methyl butyrate	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	丁酸甲酯
+809	Methyl butyrate	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	丁酸甲酯
+810	Methylamine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	甲胺
+811	Methylglutaric acid	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	3 Hydroxy 3 Methylglutaryl Co A Lyase Deficiency	Clinical	Chemical Biomarkers	甲基戊二酸
+812	Methylglutaric acid	Type V 3-Methylglutaconic Aciduria	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	Type V 3-Methylglutaconic Aciduria	Clinical	Chemical Biomarkers	甲基戊二酸
+813	Methylguanidine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	甲基胍
+814	Methylimidazoleacetic acid	Mastocytosis	Skin Disorder	Mastocytosis	Investigational	Chemical Biomarkers	甲基咪唑乙酸
+815	Methylmalonic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	甲基丙二酸
+816	Methylsuccinic acid	Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Clinical	Chemical Biomarkers	甲基琥珀酸
+817	Methylsuccinic acid	Infantile Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Clinical	Chemical Biomarkers	甲基琥珀酸
+818	Mevalonic acid	Mevalonic Aciduria	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Mevalonic Aciduria	Clinical	Chemical Biomarkers	甲羟戊酸
+819	Mevalonic acid	Smith Lemli Opitz Syndrome	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Smith Lemli Opitz Syndrome	Investigational	Chemical Biomarkers	甲羟戊酸
+820	Molybdenum	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	钼
+821	Mucin-1	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	粘蛋白-1
+822	Mucin-1	Ovarian Cancer	Cancer,Female Reproductive System Disorder,Endocrine System Disorder	Ovarian Cancer	Investigational	Protein Biomarkers	粘蛋白-1
+823	Mucin-1	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	粘蛋白-1
+824	Muellerian-inhibiting factor	Polycystic Ovary Syndrome	Female Reproductive System Disorder,Endocrine System Disorder	Polycystic Ovary Syndrome	Investigational	Protein Biomarkers	穆勒抑制因子
+825	Myoglobin	Myocardial Infarction	Others,Cardiovascular System Disorder	Myocardial Infarction	Investigational	Protein Biomarkers	肌红蛋白
+826	Myoinositol	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	肌醇
+827	Myoinositol	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	肌醇
+828	N-Acetyl-L-tyrosine	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	
+829	N-Acetylputrescine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N-Acetylputrescine
+830	N-Acetylputrescine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N-Acetylputrescine
+831	N-Acetylputrescine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N-Acetylputrescine
+832	N-Acetylputrescine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N-Acetylputrescine
+833	N-Acetylputrescine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N-Acetylputrescine
+834	N-Acetylputrescine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N-Acetylputrescine
+835	N-Acetylputrescine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N-Acetylputrescine
+836	N-a-Acetyl-L-arginine	Argininemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	Argininemia	Investigational	Chemical Biomarkers	
+837	N-terminal pro-B-type Natriuretic peptide	Congestive Heart Failure	Cardiovascular System Disorder	Congestive Heart Failure	Investigational	Protein Biomarkers	N端b型利钠肽原
+838	N-terminal propeptide of type 1 procollagen	L1 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	1型前胶原的N末端前肽
+839	N-terminal propeptide of type 1 procollagen	Femoral Neck Osteoporsis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	1型前胶原的N末端前肽
+840	N-terminal propeptide of type 1 procollagen	L2 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	1型前胶原的N末端前肽
+841	N-terminal propeptide of type 1 procollagen	Vertebral Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	1型前胶原的N末端前肽
+842	N-terminal propeptide of type 1 procollagen	Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	1型前胶原的N末端前肽
+843	N-terminal telopeptide	Osteomalacia	Musculoskeletal System Disorder	Osteomalacia	Investigational	Protein Biomarkers	氨基末端肽
+844	N-terminal telopeptide	L1 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	氨基末端肽
+845	N-terminal telopeptide	Femoral Neck Osteoporsis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	氨基末端肽
+846	N-terminal telopeptide	L2 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	氨基末端肽
+847	N-terminal telopeptide	Vertebral Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	氨基末端肽
+848	N-terminal telopeptide	Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	氨基末端肽
+849	N1-Acetylspermidine	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Chemical Biomarkers	N1-乙酰亚精胺
+850	N1-Acetylspermidine	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Chemical Biomarkers	N1-乙酰亚精胺
+851	N1-Acetylspermine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N1-乙酰精胺
+852	N1-Acetylspermine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N1-乙酰精胺
+853	N1-Acetylspermine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N1-乙酰精胺
+854	N1-Acetylspermine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N1-乙酰精胺
+855	N1-Acetylspermine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N1-乙酰精胺
+856	N1-Acetylspermine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N1-乙酰精胺
+857	N1-Acetylspermine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	N1-乙酰精胺
+858	N1-Methyl-2-pyridone-5-carboxamide	Pellagra	Skin Disorder	Pellagra	Investigational	Chemical Biomarkers	N1-甲基-2-吡啶酮-5-甲酰胺
+859	N1-Methyl-2-pyridone-5-carboxamide	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	N1-甲基-2-吡啶酮-5-甲酰胺
+860	N2,N2-Dimethylguanosine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	N2, N2-二甲基鸟苷
+861	N4-Acetylcytidine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	
+862	Neopterin	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	新蝶呤
+863	Nickel	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	
+864	Nickel	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	
+865	Nicotinic acid	Alcoholism	Mental or Behavioural Disorder	Alcoholism	Investigational	Chemical Biomarkers	尼克酸
+866	Nitrate	Amyotrophic Lateral Sclerosis	Nervous System Disorder	Amyotrophic Lateral Sclerosis	Investigational	Chemical Biomarkers	硝酸盐
+867	Nitrate	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Chemical Biomarkers	硝酸盐
+868	Nitrite	Malaria	Parasitic Infection	Malaria	Clinical	Chemical Biomarkers	亚硝酸盐
+869	Nonanal	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+870	Norepinephrine	Subarachnoid Hemorrhage	Hematological or Lymphatic System Disorder,Nervous System Disorder	Subarachnoid Hemorrhage	Clinical	Chemical Biomarkers	去甲肾上腺素
+871	Norepinephrine	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	去甲肾上腺素
+872	Norepinephrine	Heat Stress	Exposure,Mental or Behavioural Disorder	Heat Stress	Clinical	Chemical Biomarkers	去甲肾上腺素
+873	Norepinephrine	Congenital Dopamine Beta-Hydroxylase Deficiency	Germ-Line Disorder,Endocrine System Disorder	Congenital Dopamine Beta-Hydroxylase Deficiency	Clinical	Chemical Biomarkers	去甲肾上腺素
+874	Normetanephrine	Hypertension	Cardiovascular System Disorder	Hypertension	Clinical	Chemical Biomarkers	去甲肾上腺素
+875	O-Phosphoethanolamine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	邻-磷酸乙醇胺
+876	Octyl acetate	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+877	Ornithine	Pearson Marrow Pancreas Syndrome	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Pearson Marrow Pancreas Syndrome	Clinical	Chemical Biomarkers	鸟氨酸
+878	Ornithine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	鸟氨酸
+879	Ornithine	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	鸟氨酸
+880	Osteocalcin	Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	骨钙素
+881	Osteocalcin	Vertebral Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	骨钙素
+882	Osteocalcin	L2 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	骨钙素
+883	Osteocalcin	Femoral Neck Osteoporsis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	骨钙素
+884	Osteocalcin	L1 4 Spine Osteoporosis	Others,Musculoskeletal System Disorder	Osteoporosis	Investigational	Protein Biomarkers	骨钙素
+885	Oxalacetic acid	Anoxia	Others	Anoxia	Investigational	Chemical Biomarkers	草酰乙酸
+886	Oxidized glutathione	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	氧化谷胱甘肽
+887	Oxidized glutathione	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	氧化谷胱甘肽
+888	Oxoadipic acid	Alpha Aminoadipic Aciduria	Germ-Line Disorder	Alpha Aminoadipic Aciduria	Clinical	Chemical Biomarkers	氧代己二酸
+889	Oxoglutaric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	氧代戊二酸
+890	Oxoglutaric acid	Amish Type Microcephaly	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder	Amish Type Microcephaly	Investigational	Chemical Biomarkers	氧代戊二酸
+891	Oxoglutaric acid	Anoxia	Others	Anoxia	Investigational	Chemical Biomarkers	氧代戊二酸
+892	P-Selectin	Acute Pancreatitis	Digestive System Disorder	Acute Pancreatitis	Investigational	Protein Biomarkers	P-选择素
+893	Palmitic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	棕櫚酸
+894	Pappalysin-1	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Protein Biomarkers	Pappalysin-1
+895	Pappalysin-1	Low Birth Weight	Others	Low Birth Weight	Investigational	Protein Biomarkers	Pappalysin-1
+896	Pappalysin-1	Down Syndrome	Others	Down Syndrome	Investigational	Protein Biomarkers	Pappalysin-1
+897	Parathyroid hormone	Hyperparathyroidism	Germ-Line Disorder,Nervous System Disorder,Endocrine System Disorder	Hyperparathyroidism	Investigational	Protein Biomarkers	副甲狀腺素
+898	Pentosidine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	戊糖苷
+899	Phenol	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	苯酚
+900	Phenol	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	苯酚
+901	Phenylacetic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	苯乙酸
+902	Phenylacetic acid	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	苯乙酸
+903	Phenylpyruvic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Clinical	Chemical Biomarkers	苯丙酮酸
+904	Phosphate	Hemodialysis	Others	Hemodialysis	Investigational	Chemical Biomarkers	磷酸数值
+905	Phosphate	Type 4A Bartter Syndrome	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Otorhinolaryngologic Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder,Urinary System Disorder	Type 4A Bartter Syndrome	Investigational	Chemical Biomarkers	磷酸数值
+906	Phosphate	Fanconi Syndrome	Urinary System Disorder	Fanconi Syndrome	Investigational	Chemical Biomarkers	磷酸数值
+907	Phosphorylcholine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	磷酸胆碱
+908	Phosphoserine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	磷酸丝氨酸
+909	Phytanic acid	Rhizomelic Chondrodysplasia Punctata	Germ-Line Disorder,Musculoskeletal System Disorder	Rhizomelic Chondrodysplasia Punctata	Clinical	Chemical Biomarkers	植烷酸
+910	Phytanic acid	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Clinical	Chemical Biomarkers	植烷酸
+911	Phytanic acid	Alpha Methylacyl Co A Racemase Deficiency	Germ-Line Disorder	Alpha Methylacyl Co A Racemase Deficiency	Clinical	Chemical Biomarkers	植烷酸
+912	Picolinic acid	Amyotrophic Lateral Sclerosis	Nervous System Disorder	Amyotrophic Lateral Sclerosis	Investigational	Chemical Biomarkers	吡啶甲酸
+913	Pimelic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	庚二酸
+914	Pipecolic acid	Adrenoleukodystrophy	Germ-Line Disorder,Metabolic Disorder,Endocrine System Disorder	Adrenoleukodystrophy	Clinical	Chemical Biomarkers	哌啶醇酸
+915	Pipecolic acid	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Clinical	Chemical Biomarkers	哌啶醇酸
+916	Pipecolic acid	Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Clinical	Chemical Biomarkers	哌啶醇酸
+917	Pipecolic acid	Dyserythropoietic Congenital Anemia Type II	Hematological or Lymphatic System Disorder	Anemia	Clinical	Chemical Biomarkers	哌啶醇酸
+918	Pipecolic acid	Anemia	Hematological or Lymphatic System Disorder	Anemia	Clinical	Chemical Biomarkers	哌啶醇酸
+919	Pipecolic acid	Infantile Refsum Disease	Visual System Disorder,Germ-Line Disorder,Nervous System Disorder,Digestive System Disorder	Refsum Disease	Clinical	Chemical Biomarkers	哌啶醇酸
+920	Plasminogen activator inhibitor 1	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	
+921	Plasminogen activator inhibitor 1	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	
+922	Porphobilinogen	Porphyria	Germ-Line Disorder,Skin Disorder,Metabolic Disorder,Digestive System Disorder	Porphyria	Clinical	Chemical Biomarkers	胆色素原
+923	Potassium	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Clinical	Chemical Biomarkers	钾
+924	Potassium	Type I Autosonal Dominant Pseudohyopoaldosteronism	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Metabolic Disorder	Type I Autosonal Dominant Pseudohyopoaldosteronism	Clinical	Chemical Biomarkers	钾
+925	Potassium	Type 4A Bartter Syndrome	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Otorhinolaryngologic Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder,Urinary System Disorder	Type 4A Bartter Syndrome	Clinical	Chemical Biomarkers	钾
+926	Potassium	Type 4B Bartter Syndrome	Germ-Line Disorder,Otorhinolaryngologic Disorder,Metabolic Disorder,Urinary System Disorder	Type 4B Bartter Syndrome	Clinical	Chemical Biomarkers	钾
+927	Potassium	21 Hydroxylase Deficiency	Nervous System Disorder,Endocrine System Disorder	21 Hydroxylase Deficiency	Clinical	Chemical Biomarkers	钾
+928	Pregnanetriol	11 Beta Hydroxylase Deficiency	Germ-Line Disorder,Female Reproductive System Disorder,Endocrine System Disorder	11 Beta Hydroxylase Deficiency	Clinical	Chemical Biomarkers	
+929	Pregnenolone	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Immune System Disorder,Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Congenital Adrenal Insufficiency with 46,XY Sex Reversal	Clinical	Chemical Biomarkers	孕烯醇酮
+930	Pristanic acid	Alpha Methylacyl Co A Racemase Deficiency	Germ-Line Disorder	Alpha Methylacyl Co A Racemase Deficiency	Clinical	Chemical Biomarkers	普里斯坦酸
+931	Pristanic acid	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Clinical	Chemical Biomarkers	普里斯坦酸
+932	Procalcitonin	Sepsis	Bacterial Infection,Parasitic Infection,Viral Infection	Sepsis	Investigational	Protein Biomarkers	降钙素原
+933	Procalcitonin	Autoimmune Disease	Immune System Disorder,Germ-Line Disorder,Hematological or Lymphatic System Disorder,Skin Disorder,Nervous System Disorder,Endocrine System Disorder	Autoimmune Disease	Investigational	Protein Biomarkers	降钙素原
+934	Progesterone	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Musculoskeletal System Disorder	Antley Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	Clinical	Chemical Biomarkers	孕酮
+935	Prolactin	Hyperprolactinemia	Endocrine System Disorder	Hyperprolactinemia	Investigational	Protein Biomarkers	催乳激素
+936	Proliferation marker protein Ki-67	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	
+937	Proliferation marker protein Ki-67	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	
+938	Prolylhydroxyproline	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	脯氨酸
+939	Propionic acid	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	丙酸
+940	Propionic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	丙酸
+941	Propionic acid	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	丙酸
+942	Propyl alcohol	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	丙醇
+943	Propyl alcohol	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	丙醇
+944	Propylene glycol	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Investigational	Chemical Biomarkers	1,2-丙二醇
+945	Propylene glycol	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	1,2-丙二醇
+946	Prostaglandin B2	Stroke	Cardiovascular System Disorder	Stroke	Investigational	Chemical Biomarkers	前列腺素B2
+947	Prostaglandin E2	Amyotrophic Lateral Sclerosis	Nervous System Disorder	Amyotrophic Lateral Sclerosis	Investigational	Chemical Biomarkers	前列腺素E2
+948	Prostaglandin F2a	Myocardial Infarction	Others,Cardiovascular System Disorder	Myocardial Infarction	Investigational	Chemical Biomarkers	前列腺素F2a
+949	Prostate specific antigen	Prostate Cancer	Cancer,Germ-Line Disorder,Male Reproductive System Disorder,Nervous System Disorder	Prostate Cancer	Investigational	Protein Biomarkers	前列腺特异抗原检测
+950	Protein C	Protein C deficiency	Hematological or Lymphatic System Disorder	Protein C deficiency	Investigational	Protein Biomarkers	蛋白质C
+951	Protein S	Protein S deficiency	Hematological or Lymphatic System Disorder	Protein S deficiency	Investigational	Protein Biomarkers	蛋白质S
+952	Prothrombin	Combined Deficiency of Vitamin K Dependent Clotting Factors	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Combined Deficiency of Vitamin K Dependent Clotting Factors	Investigational	Protein Biomarkers	凝血酶原
+953	Prothrombin	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	凝血酶原
+954	Putrescine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	腐胺
+955	Putrescine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	腐胺
+956	Putrescine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	腐胺
+957	Putrescine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	腐胺
+958	Putrescine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	腐胺
+959	Putrescine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	腐胺
+960	Putrescine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	腐胺
+961	Putrescine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	腐胺
+962	Putrescine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	腐胺
+963	Pyridinoline	Heart Failure	Others,Cardiovascular System Disorder	Heart Failure	Investigational	Chemical Biomarkers	吡啶啉
+964	Pyridoxal	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	吡哆醛
+965	Pyridoxal	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	吡哆醛
+966	Pyridoxal	Sickle Cell Anemia	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Sickle Cell Anemia	Investigational	Chemical Biomarkers	吡哆醛
+967	Pyridoxal 5'-phosphate	Purine Nucleoside Phosphorylase Deficiency	Immune System Disorder,Germ-Line Disorder,Metabolic Disorder	Purine Nucleoside Phosphorylase Deficiency	Clinical	Chemical Biomarkers	5 '-磷酸吡哆醛
+968	Pyridoxal 5'-phosphate	Systemic Juvenile Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	5 '-磷酸吡哆醛
+969	Pyridoxal 5'-phosphate	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	5 '-磷酸吡哆醛
+970	Pyridoxal 5'-phosphate	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	5 '-磷酸吡哆醛
+971	Pyridoxal 5'-phosphate	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	5 '-磷酸吡哆醛
+972	Pyridoxal 5'-phosphate	Rheumatoid Arthritis	Immune System Disorder,Musculoskeletal System Disorder	Rheumatoid Arthritis	Investigational	Chemical Biomarkers	5 '-磷酸吡哆醛
+973	Pyridoxamine	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	吡哆胺
+974	Pyridoxamine	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	吡哆胺
+975	Pyridoxine	Pyridoxine Dependent Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	吡哆醇
+976	Pyridoxine	Sickle Cell Anemia	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Sickle Cell Anemia	Investigational	Chemical Biomarkers	吡哆醇
+977	Pyridoxine	Epilepsy	Nervous System Disorder	Epilepsy	Investigational	Chemical Biomarkers	吡哆醇
+978	Pyroglutamic acid	Glutathione Synthetase Deficiency	Germ-Line Disorder,Hematological or Lymphatic System Disorder,Metabolic Disorder	Glutathione Synthetase Deficiency	Clinical	Chemical Biomarkers	焦谷氨酸
+979	Pyroglutamic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	焦谷氨酸
+980	Pyruvaldehyde	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	
+981	Pyruvic acid	Hereditary Myopathy With Lactic Acidosis	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder,Metabolic Disorder	Hereditary Myopathy With Lactic Acidosis	Clinical	Chemical Biomarkers	丙酮酸
+982	Pyruvic acid	G.R.A.C.I.L.E. Syndrome	Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder	G.R.A.C.I.L.E. Syndrome	Clinical	Chemical Biomarkers	丙酮酸
+983	Pyruvic acid	Leigh syndrome	Germ-Line Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Leigh syndrome	Clinical	Chemical Biomarkers	丙酮酸
+984	Pyruvic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	丙酮酸
+985	Pyruvic acid	Pearson Marrow Pancreas Syndrome	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Pearson Marrow Pancreas Syndrome	Clinical	Chemical Biomarkers	丙酮酸
+986	Quinolinic acid	Hepatic Coma	Others	Hepatic Coma	Investigational	Chemical Biomarkers	喹啉酸
+987	Quinolinic acid	Amyotrophic Lateral Sclerosis	Nervous System Disorder	Amyotrophic Lateral Sclerosis	Investigational	Chemical Biomarkers	喹啉酸
+988	Quinolinic acid	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	喹啉酸
+989	Renin	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Protein Biomarkers	肾素
+990	Retinyl ester	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	
+991	Riboflavin	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	核黄素
+992	Riboflavin	Brown Vialetto Van Laere Syndrome	Germ-Line Disorder,Otorhinolaryngologic Disorder,Nervous System Disorder	Brown Vialetto Van Laere Syndrome	Clinical	Chemical Biomarkers	核黄素
+993	S-Adenosylhomocysteine	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	S-腺苷高半胱氨酸
+994	SAICAR	Adenylosuccinate Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Adenylosuccinate Lyase Deficiency	Clinical	Chemical Biomarkers	SAICAR
+995	Sarcosine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	N-甲基甘氨酸
+996	Sebacic acid	Carnitine Acylcarnitine Translocase Deficiency	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	Carnitine Acylcarnitine Translocase Deficiency	Clinical	Chemical Biomarkers	癸二酸
+997	Selenomethionine	Prostate Cancer	Cancer,Germ-Line Disorder,Male Reproductive System Disorder,Nervous System Disorder	Prostate Cancer	Investigational	Chemical Biomarkers	硒代甲硫氨酸
+998	Serotonin	Brunner Syndrome	Germ-Line Disorder,Nervous System Disorder	Brunner Syndrome	Clinical	Chemical Biomarkers	血清素
+999	Serotonin	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	血清素
+1000	Sex hormone binding globulin	Liver Disease	Others	Liver Disease	Investigational	Protein Biomarkers	性激素结合球蛋白
+1001	Sex hormone binding globulin	Polycystic Ovary Syndrome	Female Reproductive System Disorder,Endocrine System Disorder	Polycystic Ovary Syndrome	Investigational	Protein Biomarkers	性激素结合球蛋白
+1002	Sex hormone binding globulin	Cushing's Syndrome	Endocrine System Disorder	Cushing's Syndrome	Investigational	Protein Biomarkers	性激素结合球蛋白
+1003	Sex hormone-binding globulin	Polycystic Ovary Syndrome	Female Reproductive System Disorder,Endocrine System Disorder	Polycystic Ovary Syndrome	Investigational	Protein Biomarkers	性激素结合球蛋白
+1004	Sodium	Corticosterone Methyloxidase Type I Deficiency	Germ-Line Disorder,Metabolic Disorder,Endocrine System Disorder	Corticosterone Methyloxidase Type I Deficiency	Clinical	Chemical Biomarkers	钠
+1005	Sodium	Cystic Fibrosis	Germ-Line Disorder,Male Reproductive System Disorder,Digestive System Disorder,Respiratory System Disorder	Cystic Fibrosis	Clinical	Chemical Biomarkers	钠
+1006	Sodium	Antenatal Bartter Syndrome Type II	Metabolic Disorder	Antenatal Bartter Syndrome Type II	Clinical	Chemical Biomarkers	钠
+1007	Sorbitol	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	山梨醇
+1008	Sorbitol	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	山梨醇
+1009	Spermidine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	亚精胺
+1010	Spermidine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	亚精胺
+1011	Spermidine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	亚精胺
+1012	Spermidine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	亚精胺
+1013	Spermidine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	亚精胺
+1014	Spermidine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	亚精胺
+1015	Spermidine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	亚精胺
+1016	Spermine	Somatic T Cell Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精胺
+1017	Spermine	Chronic Eosinophilic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精胺
+1018	Spermine	Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精胺
+1019	Spermine	Acute Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精胺
+1020	Spermine	Acute Lymphoblastic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精胺
+1021	Spermine	Chronic Myeloid Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精胺
+1022	Spermine	Chronic Lymphocytic Leukemia	Cancer,Hematological or Lymphatic System Disorder	Leukemia	Investigational	Chemical Biomarkers	精胺
+1023	Stearic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	硬脂酸
+1024	Stearoylcarnitine	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	硬脂酰肉碱
+1025	Suberic acid	Carnitine Acylcarnitine Translocase Deficiency	Germ-Line Disorder,Cardiovascular System Disorder,Metabolic Disorder	Carnitine Acylcarnitine Translocase Deficiency	Clinical	Chemical Biomarkers	琥珀酸
+1026	Substance P	Narcolepsy	Nervous System Disorder,Mental or Behavioural Disorder	Narcolepsy	Investigational	Chemical Biomarkers	P物质
+1027	Substance P	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	P物质
+1028	Succinic acid	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	琥珀酸
+1029	Succinic acid	Preeclampsia/Eclampsia	Female Reproductive System Disorder,Cardiovascular System Disorder	Preeclampsia/Eclampsia	Clinical	Chemical Biomarkers	琥珀酸
+1030	Succinic acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Clinical	Chemical Biomarkers	琥珀酸
+1031	Succinyladenosine	Adenylosuccinate Lyase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Adenylosuccinate Lyase Deficiency	Clinical	Chemical Biomarkers	琥珀酰腺苷
+1032	Sulfolithocholylglycine	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	磺胆胆酰甘氨酸
+1033	Symmetric dimethylarginine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Clinical	Chemical Biomarkers	对称二甲基精氨酸
+1034	Symmetric dimethylarginine	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	对称二甲基精氨酸
+1035	Tartaric acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Investigational	Chemical Biomarkers	二羟基丁二酸
+1036	Tau protein	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Protein Biomarkers	Tau蛋白
+1037	Taurine	Autosomal Dominant Polycystic Kidney Disease	Germ-Line Disorder,Urinary System Disorder	Autosomal Dominant Polycystic Kidney Disease	Clinical	Chemical Biomarkers	牛磺酸
+1038	Taurocyamine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	牛磺氰胺
+1039	Testosterone	21 Hydroxylase Deficiency	Nervous System Disorder,Endocrine System Disorder	21 Hydroxylase Deficiency	Clinical	Chemical Biomarkers	睾丸素
+1040	Testosterone	Aromatase Deficiency	Germ-Line Disorder,Male Reproductive System Disorder,Female Reproductive System Disorder,Endocrine System Disorder,Urinary System Disorder	Aromatase Deficiency	Clinical	Chemical Biomarkers	睾丸素
+1041	Testosterone	11 Beta Hydroxylase Deficiency	Germ-Line Disorder,Female Reproductive System Disorder,Endocrine System Disorder	11 Beta Hydroxylase Deficiency	Clinical	Chemical Biomarkers	睾丸素
+1042	Testosterone	X-Linked Ichthyosis	Germ-Line Disorder,Skin Disorder,Metabolic Disorder	X-Linked Ichthyosis	Clinical	Chemical Biomarkers	睾丸素
+1043	Tetradecanol	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+1044	Tetrahydrobiopterin	Myocardial Infarction	Others,Cardiovascular System Disorder	Myocardial Infarction	Investigational	Chemical Biomarkers	四氢生物蝶呤
+1045	Tetrahydrodeoxycortisol	11 Beta Hydroxylase Deficiency	Germ-Line Disorder,Female Reproductive System Disorder,Endocrine System Disorder	11 Beta Hydroxylase Deficiency	Clinical	Chemical Biomarkers	四氢脱氧皮质醇
+1046	Theobromine	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	可可碱
+1047	Theophylline	Asthma	Immune System Disorder,Germ-Line Disorder,Respiratory System Disorder	Asthma	Investigational	Chemical Biomarkers	茶碱
+1048	Thiamine	Hemodialysis	Others	Hemodialysis	Clinical	Chemical Biomarkers	硫胺素
+1049	Thiocyanate	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	硫氰酸盐
+1050	Thiophene	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+1051	Threonic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	苏氨酸
+1052	Thymidine	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	胸苷
+1053	Thymine	Beta Ureidopropionase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Beta Ureidopropionase Deficiency	Clinical	Chemical Biomarkers	胸腺嘧啶
+1054	Thyroid stimulating hormone	Hyperthyroidism	Immune System Disorder,Endocrine System Disorder	Hyperthyroidism	Investigational	Protein Biomarkers	促甲状腺素
+1055	Thyroxine	Pendred Syndrome	Germ-Line Disorder,Otorhinolaryngologic Disorder,Nervous System Disorder,Endocrine System Disorder	Pendred Syndrome	Investigational	Chemical Biomarkers	甲状腺素
+1056	Thyroxine	Combined Pituitary Hormone Deficiency	Germ-Line Disorder,Nervous System Disorder,Endocrine System Disorder	Combined Pituitary Hormone Deficiency	Clinical	Chemical Biomarkers	甲状腺素
+1057	Thyroxine sulfate	Hyperthyroidism	Immune System Disorder,Endocrine System Disorder	Hyperthyroidism	Investigational	Chemical Biomarkers	硫酸甲状腺素
+1058	Transferrin receptor	Iron Deficiency	Hematological or Lymphatic System Disorder	Iron Deficiency	Investigational	Protein Biomarkers	
+1059	Transglutaminase  IgA antibody	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Protein Biomarkers	转谷氨酰胺酶IgA抗体
+1060	Transthyretin	Chronic Kidney Disease	Urinary System Disorder	Chronic Kidney Disease	Investigational	Protein Biomarkers	转甲状腺素蛋白
+1061	Trihexosylceramide	Abetalipoproteinemia	Visual System Disorder,Germ-Line Disorder,Hematological or Lymphatic System Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder,Digestive System Disorder	Abetalipoproteinemia	Investigational	Chemical Biomarkers	
+1062	Trihydroxycoprostanoic acid	Zellweger Syndrome	Visual System Disorder,Germ-Line Disorder,Metabolic Disorder,Digestive System Disorder,Urinary System Disorder	Zellweger Syndrome	Investigational	Chemical Biomarkers	三羟基前列腺酸
+1063	Trimethylamine	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	三甲胺
+1064	Trimethylamine N-oxide	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	N-氧化三甲胺
+1065	Tryptase	Anaphylaxis	Immune System Disorder	Anaphylaxis	Investigational	Protein Biomarkers	类胰蛋白酶
+1066	Tryptase	Mastocytosis	Skin Disorder	Mastocytosis	Investigational	Protein Biomarkers	类胰蛋白酶
+1067	Tungsten	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	钨
+1068	Tungsten	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	钨
+1069	Tyramine	Brunner Syndrome	Germ-Line Disorder,Nervous System Disorder	Brunner Syndrome	Investigational	Chemical Biomarkers	酪胺
+1070	Ubiquinol 8	Beta Thalassemia	Germ-Line Disorder,Hematological or Lymphatic System Disorder	Beta Thalassemia	Investigational	Chemical Biomarkers	泛醇8
+1071	Ubiquinone Q1	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Investigational	Chemical Biomarkers	泛醌Q1
+1072	Uracil	Argininemia	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder,Endocrine System Disorder	Argininemia	Clinical	Chemical Biomarkers	尿嘧啶
+1073	Urea	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	尿素
+1074	Urea	Type 4B Bartter Syndrome	Germ-Line Disorder,Otorhinolaryngologic Disorder,Metabolic Disorder,Urinary System Disorder	Type 4B Bartter Syndrome	Clinical	Chemical Biomarkers	尿素
+1075	Ureidoisobutyric acid	Beta Ureidopropionase Deficiency	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Beta Ureidopropionase Deficiency	Clinical	Chemical Biomarkers	脲基异丁酸
+1076	Uric acid	Lesch Nyhan Syndrome	Germ-Line Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Lesch Nyhan Syndrome	Clinical	Chemical Biomarkers	尿酸
+1077	Uric acid	Fanconi Syndrome	Urinary System Disorder	Fanconi Syndrome	Clinical	Chemical Biomarkers	尿酸
+1078	Uric acid	Cachexia	Cancer	Cachexia	Clinical	Chemical Biomarkers	尿酸
+1079	Uric acid	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	尿酸
+1080	Uridine	Lesch Nyhan Syndrome	Germ-Line Disorder,Nervous System Disorder,Mental or Behavioural Disorder	Lesch Nyhan Syndrome	Investigational	Chemical Biomarkers	
+1081	Uridine 5'-monophosphate	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	尿苷5 '-一磷酸
+1082	Urokinase-type plasminogen activator	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	
+1083	Urokinase-type plasminogen activator	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	
+1084	Uroporphyrin I	Porphyria	Germ-Line Disorder,Skin Disorder,Metabolic Disorder,Digestive System Disorder	Porphyria	Investigational	Chemical Biomarkers	尿卟啉I
+1085	Ursodeoxycholic acid	Cirrhosis	Others,Digestive System Disorder	Cirrhosis	Investigational	Chemical Biomarkers	熊脱氧胆酸
+1086	Ursodeoxycholic acid	Cystic Fibrosis	Germ-Line Disorder,Male Reproductive System Disorder,Digestive System Disorder,Respiratory System Disorder	Cystic Fibrosis	Investigational	Chemical Biomarkers	熊脱氧胆酸
+1087	Valeric acid	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	戊酸
+1088	Valeric acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	戊酸
+1089	Vanadium	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	
+1090	Vanillic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	香草酸
+1091	Vanillylmandelic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Clinical	Chemical Biomarkers	香草扁桃酸
+1092	Vanillylmandelic acid	Brunner Syndrome	Germ-Line Disorder,Nervous System Disorder	Brunner Syndrome	Clinical	Chemical Biomarkers	香草扁桃酸
+1093	Vanillylmandelic acid	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	香草扁桃酸
+1094	Vanylglycol	Aromatic L Amino Acid Decarboxylase Deficiency	Germ-Line Disorder,Metabolic Disorder	Aromatic L Amino Acid Decarboxylase Deficiency	Clinical	Chemical Biomarkers	乙烯基乙二醇
+1095	Vascular Endothelial Growth Factor	Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	血管内皮生长因子
+1096	Vascular Endothelial Growth Factor	Invasive Ductal Breast Cancer	Cancer,Germ-Line Disorder,Skin Disorder	Breast Cancer	Investigational	Protein Biomarkers	血管内皮生长因子
+1097	Vasopressin-neurophysin 2-copeptin	Autosomal Dominant Neurohypophyseal Diabetes Insipidus	Germ-Line Disorder,Nervous System Disorder,Metabolic Disorder	Autosomal Dominant Neurohypophyseal Diabetes Insipidus	Investigational	Protein Biomarkers	血管加压素-神经垂体素2-肽素
+1098	Vitamin A	Hemodialysis	Others	Hemodialysis	Investigational	Chemical Biomarkers	维生素 A
+1099	Vitamin A	Endometrial Cancer	Cancer,Female Reproductive System Disorder	Endometrial Cancer	Investigational	Chemical Biomarkers	维生素 A
+1100	Xanthine	Degenerative Disc Disease	Others,Nervous System Disorder,Mental or Behavioural Disorder	Degenerative Disc Disease	Clinical	Chemical Biomarkers	黄嘌呤
+1101	Xanthine	Uremia	Others,Urinary System Disorder	Uremia	Clinical	Chemical Biomarkers	黄嘌呤
+1102	Xanthurenic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	黄嘌呤酸
+1103	Xanthurenic acid	Hemodialysis	Others	Hemodialysis	Investigational	Chemical Biomarkers	黄嘌呤酸
+1104	Zinc	Multiple Sclerosis	Immune System Disorder,Germ-Line Disorder,Nervous System Disorder	Multiple Sclerosis	Clinical	Chemical Biomarkers	
+1105	Zinc	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Clinical	Chemical Biomarkers	
+1106	Zinc	Hemodialysis	Others	Hemodialysis	Clinical	Chemical Biomarkers	
+1107	beta-Pinene	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	
+1108	cis-Aconitic acid	Alzheimer's Disease	Nervous System Disorder,Mental or Behavioural Disorder	Alzheimer's Disease	Investigational	Chemical Biomarkers	顺式-乌头酸
+1109	m-Tyramine	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	间酪胺
+1110	p-Cresol	Celiac Disease	Immune System Disorder,Lower Gastrointestinal Disorder,Digestive System Disorder	Celiac Disease	Investigational	Chemical Biomarkers	对甲酚
+1111	p-Cresol	Crohn's Disease	Immune System Disorder,Digestive System Disorder	Crohn's Disease	Investigational	Chemical Biomarkers	对甲酚
+1112	p-Cresol	Irritable Bowel Syndrome	Lower Gastrointestinal Disorder	Irritable Bowel Syndrome	Investigational	Chemical Biomarkers	对甲酚
+1113	p-Cresol	Uremia	Others,Urinary System Disorder	Uremia	Investigational	Chemical Biomarkers	对甲酚
+1114	p-Hydroxyphenylacetic acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Investigational	Chemical Biomarkers	对羟基苯乙酸
+1115	p-Hydroxyphenylacetic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	对羟基苯乙酸
+1116	p-Hydroxyphenylacetic acid	Schizophrenia	Germ-Line Disorder,Mental or Behavioural Disorder	Schizophrenia	Investigational	Chemical Biomarkers	对羟基苯乙酸
+1117	p-Octopamine	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	对八达胺
+1118	p-Synephrine	Hypertension	Cardiovascular System Disorder	Hypertension	Investigational	Chemical Biomarkers	对-Synephrine
+1119	trans-Aconitic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	反乌头酸
+1120	trans-Aconitic acid	Amish Type Microcephaly	Germ-Line Disorder,Musculoskeletal System Disorder,Nervous System Disorder	Amish Type Microcephaly	Investigational	Chemical Biomarkers	反乌头酸
+1121	trans-Aconitic acid	Lung Cancer	Cancer,Germ-Line Disorder,Respiratory System Disorder	Lung Cancer	Investigational	Chemical Biomarkers	反乌头酸
+1122	trans-Ferulic acid	Eosinophilic Esophagitis	Immune System Disorder,Digestive System Disorder	Eosinophilic Esophagitis	Investigational	Chemical Biomarkers	
+1123	trans-trans-Muconic acid	Benzene Exposure	Exposure,Others	Benzene Exposure	Investigational	Chemical Biomarkers	反式-穆康酸
