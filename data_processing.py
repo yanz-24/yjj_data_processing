@@ -1,8 +1,8 @@
 import pandas as pd
 import re
 import hashlib
-from roche_db.Constants import MAPPING_NORMAL, MAPPING_INNO_PRIO, COLUMN_NAMES, IN_VITRO_TYPES, DISEASES
-from roche_db.fuzzy_merge import fuzzy_merge_in_vitro, fuzzy_merge_software_device
+from Constants import MAPPING_NORMAL, MAPPING_INNO_PRIO, COLUMN_NAMES, IN_VITRO_TYPES, DISEASES
+from fuzzy_merge import fuzzy_merge_in_vitro, fuzzy_merge_software_device
 
 def generate_ID(df, new_column_name):
     """
@@ -83,7 +83,7 @@ def get_df_cat(data_type):
     data_type: 体外诊断试剂、医用软件、临床检验器械
     '''
     if data_type == "体外诊断试剂":
-        df_in_vitro = pd.read_excel('../data/外诊断试剂分类子目录.xls', index_col=0, header=0)
+        df_in_vitro = pd.read_excel('data/外诊断试剂分类子目录.xls', index_col=0, header=0)
         name_list = [] # 被测物质的名称
         usage_list = [] # 用途
         regulation_list = [] #管理类别
@@ -110,7 +110,7 @@ def get_df_cat(data_type):
         return df_in_vitro
     
     elif data_type == "医用软件" or data_type == "临床检验器械":
-        df_cat = pd.read_excel("../data/医疗器械分类目录21和22（2023-手动修改-最终版）.xlsx", sheet_name=data_type) # 分类目录
+        df_cat = pd.read_excel("data/医疗器械分类目录21和22（2023-手动修改-最终版）.xlsx", sheet_name=data_type) # 分类目录
         df_cat = df_cat.replace('\n', '', regex=True)
         df_cat["分类"] = data_type
         df_cat.rename(columns={'一级产品类别':'一级类别', '二级产品类别':'二级类别', '预期用途':'适用领域'}, inplace=True)
