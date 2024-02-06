@@ -164,7 +164,7 @@ def find_diseases(row, is_clinical=False):
     else:
         return None
 
-def map2db(input_path, output_path, data_source):
+def map2db(data_source, input_path, output_path="data/output.xlsx"):
     '''
     data_source: '创新审批', '常规审批', '优先审批'
     '''
