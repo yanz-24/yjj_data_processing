@@ -179,13 +179,13 @@ def keyword_query(driver, my_database, my_keyword, df_path, filename):
     return True
 
 
-def search_ylqx(database, keyword, df_path, output_path=False):
+def search_ylqx(database, keyword, df_path=False, output_path=False):
     """通过关键词在数据库里查找医疗器械，储存在一个用户指定的文件里。
     
     参数:
         database: 数据库名称，如`境内医疗器械（注册）`、`进口医疗器械（注册）`.
         keyword: 要查询的关键词.
-        df_path: 上一次爬取的excel文件的地址.
+        df_path: 上一次爬取的excel文件的地址.如果没有提供，则爬取所有内容.
         output_path: 指定结果的存储路径。如果该文件已存在，函数将续写其内容；如果文件不存在，
             函数将创建该文件并写入结果。默认路径为`data`文件夹下`{keyword}_{database}_{time}.xlsx`
 
