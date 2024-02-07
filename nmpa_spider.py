@@ -116,7 +116,7 @@ def onepage_of_list(driver, df, first_number_of_windows, codes_list):
     return df
 
 
-def keyword_query(driver, my_database, my_keyword, lb, df_path):
+def keyword_query(driver, my_database, my_keyword, df_path, filename):
     wait = WebDriverWait(driver, 30, 0.5)
     # 查找选择数据库，输入关键词和提交按钮相关的元素
     database_elements = wait.until(EC.presence_of_all_elements_located((By.LINK_TEXT, my_database)))
@@ -157,12 +157,13 @@ def keyword_query(driver, my_database, my_keyword, lb, df_path):
         nextpage_button_elements[0].click()
         df = onepage_of_list(driver, df, first_number_of_windows, codes_list)
         print(f"已保存{number_pages}上的{len(df)}条数据")
-        filename = f'data/{my_keyword}_{my_database}.xlsx'
-        df.to_excel(filename)
         # break
 
     time = datetime.now().strftime('%Y%m%d%H%M')
-    filename = f'data/{my_keyword}_{my_database}_{time}.xlsx'
+    
+    if not filename:
+        filename = f'data/{my_keyword}_{my_database}_{time}.xlsx'
+    
     # df.to_excel((r'D:\nmpa_ylqx.xlsx'), sheet_name=my_database, index=False)
     if os.path.exists(filename):
         print("向文件" + filename + "中追加数据!")
@@ -177,14 +178,15 @@ def keyword_query(driver, my_database, my_keyword, lb, df_path):
     return True
 
 
-def search_ylqx(database, keyword, df_path):
-    """通过关键词在数据库里查找医疗器械，储存在一个新的文件里。
+def search_ylqx(database, keyword, df_path, output_path=False):
+    """通过关键词在数据库里查找医疗器械，储存在一个用户指定的文件里。
     
     参数:
         database: 数据库名称，如`境内医疗器械（注册）`、`进口医疗器械（注册）`.
         keyword: 要查询的关键词.
         df_path: 上一次爬取的excel文件的地址.
-
+        output_path: 指定结果的存储路径。如果该文件已存在，函数将续写其内容；如果文件不存在，
+            函数将创建该文件并写入结果。默认路径为`data`文件夹下`{keyword}_{database}_{time}.xlsx`
 
     """
     print("开始时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
@@ -225,7 +227,7 @@ def search_ylqx(database, keyword, df_path):
     print("开始爬取 数据库："+database+";关键词："+keyword+" ")
 
     # 执行“数据库+关键词”查询
-    if keyword_query(driver, database, keyword, lb, df_path):
+    if keyword_query(driver, database, keyword, lb, df_path, output_path):
         print("已完成对 数据库："+database+";关键词："+keyword+" 的成功爬取！")
     else:
         print("本次数据爬取失败！")
@@ -233,9 +235,4 @@ def search_ylqx(database, keyword, df_path):
     # 关闭浏览器
     driver.quit()
 
-    print("结束时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
-
-if __name__ == '__main__':
-    print("开始时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
-    search_ylqx()
     print("结束时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
