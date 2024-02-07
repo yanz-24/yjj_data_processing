@@ -197,7 +197,6 @@ def search_ylqx(database, keyword, df_path=False, output_path=False):
     url = "https://www.nmpa.gov.cn/datasearch/home-index.html#category=ylqx"
     # url = "https://www.nmpa.gov.cn/datasearch/home-index.html#category=hzp"
     # url = "https://www.nmpa.gov.cn/datasearch/home-index.html#category=qt"
-    lb = re.findall(r"=(.*)", url, re.S)[0]
 
     # 提高效率，无界面浏览等
     options = webdriver.FirefoxOptions()
@@ -228,7 +227,7 @@ def search_ylqx(database, keyword, df_path=False, output_path=False):
     print("开始爬取 数据库："+database+";关键词："+keyword+" ")
 
     # 执行“数据库+关键词”查询
-    if keyword_query(driver, database, keyword, lb, df_path, output_path):
+    if keyword_query(driver, database, keyword, df_path, output_path):
         print("已完成对 数据库："+database+";关键词："+keyword+" 的成功爬取！")
     else:
         print("本次数据爬取失败！")
