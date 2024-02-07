@@ -177,7 +177,18 @@ def keyword_query(driver, my_database, my_keyword, lb, df_path):
     return True
 
 
-def main():
+def search_ylqx(database, keyword, df_path):
+    """通过关键词在数据库里查找医疗器械，储存在一个新的文件里。
+    
+    参数:
+        database: 数据库名称，如`境内医疗器械（注册）`、`进口医疗器械（注册）`.
+        keyword: 要查询的关键词.
+        df_path: 上一次爬取的excel文件的地址.
+
+
+    """
+    print("开始时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
+
     # 四个大类：药品、医疗器械、化装品、其他
     # url = "https://www.nmpa.gov.cn/datasearch/home-index.html#category=yp"
     url = "https://www.nmpa.gov.cn/datasearch/home-index.html#category=ylqx"
@@ -199,30 +210,32 @@ def main():
     driver.get(url)
 
     # 数据库和关键词
-    my_database = "境内医疗器械（注册）"
-    # my_database = "境内医疗器械（备案）"
-    # my_database = "进口医疗器械（备案历史数据）"
-    # my_database = "进口医疗器械（注册）"
-    my_keyword = "过敏"
-    # my_keyword = "."
+    # database = "境内医疗器械（注册）"
+    # database = "境内医疗器械（备案）"
+    # database = "进口医疗器械（备案历史数据）"
+    # database = "进口医疗器械（注册）"
+    # keyword = "过敏"
+    # keyword = "."
 
     # 
-    df_path = 'D:/Roche/data/过敏自勉/过敏_境内.xlsx'
+    # df_path = 'D:/Roche/data/过敏自勉/过敏_境内.xlsx'
 
     # 关闭首页导航条，以免影响操作
     skip_introjs(driver)
-    print("开始爬取 数据库："+my_database+";关键词："+my_keyword+" ")
+    print("开始爬取 数据库："+database+";关键词："+keyword+" ")
 
     # 执行“数据库+关键词”查询
-    if keyword_query(driver, my_database, my_keyword, lb, df_path):
-        print("已完成对 数据库："+my_database+";关键词："+my_keyword+" 的成功爬取！")
+    if keyword_query(driver, database, keyword, lb, df_path):
+        print("已完成对 数据库："+database+";关键词："+keyword+" 的成功爬取！")
     else:
         print("本次数据爬取失败！")
 
     # 关闭浏览器
     driver.quit()
 
+    print("结束时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
+
 if __name__ == '__main__':
     print("开始时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
-    main()
+    search_ylqx()
     print("结束时间：" + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
