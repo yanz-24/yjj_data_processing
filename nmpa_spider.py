@@ -174,6 +174,7 @@ def keyword_query(driver, my_database, my_keyword, df_path, filename):
         print(r"新建文件" + filename + "!")
         with pd.ExcelWriter(filename) as writer:
             df.to_excel(writer, sheet_name=my_database, index=False)
+    print(f"数据保存到{os.path.abspath()(filename)}")
 
     return True
 
