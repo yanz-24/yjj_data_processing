@@ -147,7 +147,7 @@ def find_diseases(row, is_clinical=False):
     '''
     对与某一个产品的检测项目，寻找与之匹配的疾病，并返回疾病名称
     '''
-    df_biomarker = pd.read_csv("roche_db/data/biomarker_data_clinical_status_all.tsv", sep='\t', index_col=0)
+    df_biomarker = pd.read_csv("_data/biomarker_data_clinical_status_all.tsv", sep='\t', index_col=0)
     if is_clinical: # 只筛选clinical biomarker
         df_biomarker = df_biomarker[df_biomarker["Clinical Status"] == "Clinical"]
     
