@@ -125,8 +125,17 @@ def keyword_query(driver, my_database, my_keyword, df_path, filename):
     first_number_of_windows = len(driver.window_handles)
 
     # 如果用户提供了上一次爬取的数据，就可以与之比对
-    codes_list = (pd.read_excel(df_path, header=0)["注册证编号"].to_list() if df_path else [])
-        
+    if not os.path.exists(df_path):  
+        print(f"文件{df_path}不存在。将从头爬取数据。")  
+        codes_list = []
+    else:
+        try:
+            # 尝试读取表头在第一行的数据  
+            codes_list = pd.read_excel(df_path, header=0)["注册证编号"].to_list()
+        except KeyError:
+            # 如果第一行读取失败，尝试读取表头在第二行的数据  
+            codes_list = pd.read_excel(df_path, header=1)["注册证编号"].to_list()        
+    
     df = pd.DataFrame(columns=range(14)) 
 
     # 点击数据库，输入搜索关键字，点击搜索按钮
