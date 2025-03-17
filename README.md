@@ -9,7 +9,7 @@ from roche_db.data_processing import map2db
 
 output_path = 'test_data/temp.xlsx' # output可以是一个新文件，可以是原来的DB
 
-input_path = '../data/MD/22年9月-23年8月产品注册数据-众成数科-20230920.xlsx' # input是MD的数据
+input_path = '../data/MD/xxx.xlsx'
 map2db(input_path, output_path, '常规审批')
 
 # input_path = '../data/MD/创新2022.xlsx'
